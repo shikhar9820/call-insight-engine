@@ -1,0 +1,92 @@
+===================
+PART 1: TRANSCRIPT (Roman script only - NO Devanagari/Tamil/Telugu scripts)
+===================
+
+Executive: Hello.
+Customer: Hello?
+Executive: Ji ma'am mai sujit Mandal bol raha hu.
+Customer: Hello?
+Executive: IndiaMart, Hello? Ji mai sujit Mandal bol raha hu ma'am.
+Customer: Haanji sir.
+Executive: Ma'am yeh thoda sa mujhe queries tha apne app pe hu app pe mujhe kaise quotation yeh karna hai uske delivery mujhe thoda janna tha.
+Executive: Ji sir Anju baat kar rahi hu aapki account manager.
+Customer: Ji ma'am aapka number ma'am yeh jis number se aap baat kar rahe toh us number se toh aapse mai call kar raha tha lag nahi raha tha ma'am.
+Executive: Sir mujhe vaise toh mera number chalu hi hai aur by chance ho sakta hai ki aapne call kiya ho aur us time mera call kya pata koi dusri call pe hu us wajah se.
+Customer: Yeh yeh yeh aapka number hai ma'am is number ko save karo aap nahi nahi nahi nahi nahi nahi sir yeh number nahi hai mera theek hai mai aapko apna number se ek baar whatsapp pe hello message drop kar deti hu aap mera number save kijiyega koi bhi query hoti hai aap mujhe direct call kijiye na.
+Executive: Theek hai ma'am us mai aaphi ko mai kar raha tha jis number se aap karte the pehle us number se nahi ho raha tha ma'am lag nahi raha tha isliye.
+Customer: Pata nahi sir mere paas koi call aayi nahi vaise kehl aapki aur dusra matlab by chance kabhi aisa raha kare toh ek baar whatsapp pe connect kar liya karo kyuki whatsapp pe toh hamesha hi active rehte hai.
+Executive: Aap number aap number bol dijiyega ma'am ek baar.
+Customer: Mai number mai aapko whatsapp hi kar deti hu abhi hello message drop kar deti hu then aap save kar lena theek hai ab bataiye quotation kaise banana hai yeh jaanna hai.
+Executive: Ji ji ji ji.
+Customer: Aap mobile par ho abhi ya desktop par ho?
+Executive: Mobile se mobile se ma'am.
+Customer: Theek hai ek baar byleed vale page par aao.
+Executive: Theek hai.
+Executive: Theek hai ma'am byleed pe hu ma'am.
+Customer: Theek hai right hand side pe upar ki taraf dekhiye three dots vala option aa raha hai?
+Executive: Nahi nahi leed manager pe jaana hai na ma'am pehle.
+Customer: Nahi nahi nahi.
+Customer: Accha haan ek baar leed manager me jaaiye haan.
+Executive: Lead manager mai.
+Executive: Hello.
+Customer: Ji ma'am leed manager.
+Executive: Theek hai yaha pe dekhiye.
+Customer: Ah kisi bhi ek enquiry ko open kijiye.
+Executive: Ek minute.
+Customer: Mai example ke liye bata rahi hu phir aap jis bhi enquiry pe quotation banana chahte hai usi enquiry ko khol ke bana sakte hai. Abhi ek example ke liye koi bhi enquiry kholiye jab open kar lenge toh phir right hand side pe upar dots ke sign dikhai dege aapko.
+Executive: Nahi ma'am byleed bhi toh nahi aa raha hai abhi toh ma'am manage quotation byleed bhi toh dikh nahi raha hai ma'am vo option.
+Customer: Leed manager, leed manager.
+Executive: Leed manager me nahi dikh raha hai aapko vo option?
+Customer: Leed manager me hu ma'am leed manager me ja ke phir vaha par.
+Executive: Mai ek kaam kar leti hu ham video meeting pe connect kar lete mai aapko easily guide kar paungi aap bhi samajh paenge ki kaha pe option mil gaya ma'am mil gaya samajh gaya ma'am.
+Executive: Abhi ye jo PDF quotation jo aa gaya.
+Customer: Haan exactly right.
+Executive: PDF quotation ko open karenge vaha pe step by step jo do cheeze puchhi ja rahi hai product ka naam daaliye uska price daaliye hai na image vagera apne aap hi capture kar lega vo and then phir next karenge toh phir baaki ki cheeze jo jo puchhi ja rahi hai vo sab fill karte chaliye and then last me aa jaega PDF quotation banane ka option bas vo bana ke phir buyer ko set kar dijiye.
+Executive: Nahi nahi nahi isme jaise abhi isme title daalna hai na ma'am title me dala hu next karna hai sirf ha title daal ke discount percentage dena hai ma'am isme.
+Customer: Vo aapki choice hai sir agar aap discount dena chahte hai lagana chahte hai product pe price pe to lagaiye nahi lagana hai to rehne dijiye.
+Executive: Yeh ye ma'am isme to ye pehla hai back karne isme pehla jo hai abhi maine iska jo quotation seed ka mai quotation de raha hu isko maine select kiya hu.
+Customer: Theek hai aur uske baad next kar raha hu.
+Executive: Uske baad phir discount de raha phir applicable taxes hai shipping charges hai delivery period hai five days aur additional details isme kya daalna ma'am?
+Executive: Additional details mein.
+Customer: Isme jo hai ye isme price kaha aa raha hai ma'am price to dikh hi nahi raha kaha par daalna iska.
+Executive: Price automatic pakad lega na sir vo kyuki aapne product me dekho aapke catalogue me jo product add hai vo automatic hi capture hua hai to vahi se price bhi capture ho jaega.
+Executive: Agar mai discount nahi nahi dena chahta to usko blank usko blank chhod du mai.
+Customer: Haan haan bilkul blank chhod sakte hai.
+Executive: Theek hai theek hai applicable taxes.
+Customer: Haan bataiye bataiye aap pura bana lijiye mai call pe hi hu agar dikkat aaegi to at least mai help kar paungi aapki.
+Executive: Theek hai ma'am theek hai haan mai live haan vaha se aapko dekho aap likh ke aa raha hoga balance likh ke aa raha hoga ek paath leekh aa raha hoga niche se right side niche hai isko right side me niche uske just niche just right side niche.
+Executive: Isme additional detail me kya daalna padta ma'am?
+Customer: Vo jaise aapki koi terms and conditions hai vo aap add kar sakte ho suppose 50% advance bata sakte hai buyer ko to vo aap additional detail me daal sakte ho.
+Executive: Theek hai ma'am.
+Executive: Sir aapko by pass transaction most recent a raha hai na?
+Executive: PNNs number kya hota hai ma'am isme?
+Executive: Hello haanji sir sir
+Customer: PNNs number yeh?
+Executive: PNNs number kya?
+Customer: PNNs number dikh raha hai vo kya cheez ke liye hai.
+Executive: Vo aapka PNNs number hota hai maine aapko bataya nahi tha jo buyer aapko call karta hai aapke catalogue pe number dikhai deta hai na ki India Mart virtual number provide karta hai aapko to PNNs number vahi hota hai.
+Customer: Ji ji ji yeh virtual number India Mart ki taraf se hai na ma'am ji bilkul ji haan.
+Executive: Buyers se call karta hai to aapke jo bhi numbers me map hai jo number map kar rakhe hai aapne to usko agar agar koi koi agar buyer is number se call kare to mere ko mere paas aaega sir ma'am.
+Customer: Bilkul aaega bilkul aaega.
+Customer: Jis number se aapko buyer call karega jitne number aapke map hai un sab pe ring ek sath bajegi to vo phir aapko screen pe dikhai dega lekin screen pe aapko buyer ka real number nahi dikhega vo bhi ek virtual number hi dikhega vo number maine aapko add bhi karvaya tha India Mart buyer ke naam se vo save tha na aapke paas.
+Executive: Ji ji ji ji ha usi number se call aati hai.
+Customer: Theek hai ho gaya sir bani quotation theek hai PDF generate ho gaya abhi ma'am uska preview me check kar raha hu kaise quotation banana hai.
+Executive: Theek hai theek hai ma'am bana.
+Customer: Theek hai ye clarity hai na isme ab koi confusion to nahi aap bana paenge na.
+Executive: Nahi nahi bilkul bilkul me bana paunga.
+Customer: Theek hai by chance agar koi dikkat lage to phir direct mujhe connect kar sakte hai aap aur ek cheez aur bataiye sir jo direct matlab by leeds vagera abhi kaisi aa rahi hai kya scenario chal raha hai?
+Executive: Buy leeds ka ma'am abhi ma'am do teen din se thoda sa me jyada busy ho gaya tha mai le nahi paya tha to abhi mai consume kar raha hu aaj do teen consume kiya hu mai aaj hi theek hai consume karke chaliye do teen din se nahi aap consume kar pa rahe its okay but usse pehle jitni bhi leeds aapne consume kari hai unke feedback kaise abhi abhi dikat ye ho raha price pe matlab beat nahi ho pa raha price to log aage bhi nahi ho pa rahe hai.
+Customer: Lekin requirement to match ho rahi hai na ha requirement match ho rahi hai requirement match ho rahi hai unke requirement vo match ho rahi hai lekin abhi bhi thoda jyada ye kar rahe na.
+Executive: Buyer to karta hi hai aur to ye aaphi ki call rahegi hamesha ki price aap kis tarike se buyer ko offer kar rahe hai hai na to koi nahi ye toh follow up cases ho gai sir ye jitne jyada follow up or aap karenge price me kaise convince karenge vo aaphi ki call rahegi hai na theek hai ye wale cases bhi aage chal ke convert honge sir or koshish kijiye jaldi se jaldi convert ho to aapko bhi at least maturity milna shuru ho jaye right?
+Executive: Theek hai.
+Customer: Haan aur direct enquiry and calls vagera sab okay chal rahi hai sir unme koi problem to nahi aa rahi hai?
+Executive: Nahi nahi abhi koi nahi hai tab call kare.
+Customer: Haan definitely sir definitely baaki jo bhi calls vagera aati rahe unhe receive karte rahiyega thodi calls aapki miss bhi hui hai sir beech me Indian november ki hi baat hai sir jab maine aapko pehle bhi iske bare me jankari di thi chaar call aapke paas total aayi hai november me usme se teen call aapki miss hui hai ek hi receive ho payi hai to please isko thoda sa control kijiye saari calls ko receive kijiye theek hai.
+Executive: Theek hai.
+Customer: Aur review ratings bhi lete rahiyega sir jo bhi customer ke sath deal kar rahe hai quotation aap bana ke bhej rahe hai hope so ye convert agar ho jaata hai to review rating bhi lena jaruri hai abhi unki zero lenge mam uska link kaise bhejenge.
+Executive: Jaise jaise isi enquiry pe aake jaha se aapne three dot pe click kar ke PDF vala option nikala hai na vahi pe ek ask for review ka bhi option aa raha hoga to usi person ko usi enquiry ko ask for review pe click kar ke bhej doge to ek link chala jaega buyer ke paas vo se open kar ke aapko review rating de sakta hai aap use call kar ke bol bhi dena sir maine ek link share kiya hai review rating ke liye to please aap ek share kar do apne rating vagera.
+Executive: Theek hai.
+Customer: Haan to ye bhi lene aa sakte hai theek hai sir theek hai ek ek cheez aur thi sujit sir abhi aapne na ye customer care number pe 9696 number jo humara hai us pe call kiya hai to ye aapka sai se concern khul gaya hai concern open ho gaya hai filhal mai isko close kar deti hu aur aapke paas ek mail par mere behaviour and resolution ke liye feedback mail aaega to usko aap vaha pe satisfied ya yes ka option hoga aap uspe click kar dijiyega theek hai sir.
+Executive: Theek hai theek hai okay.
+Customer: Theek hai sir okay thank you.
+Executive: Thank you

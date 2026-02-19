@@ -1,0 +1,42 @@
+```json
+{
+    "issues": [],
+    "resolution": {
+        "status": "resolved",
+        "actions_taken": [],
+        "promises_made": [],
+        "follow_up_required": false,
+        "follow_up_owner": "none",
+        "follow_up_timeline": null
+    },
+    "risk_signals": {
+        "churn_risk_score": 0.1,
+        "deactivation_intent": false,
+        "deactivation_confirmed": false,
+        "refund_requested": false,
+        "escalation_threatened": false,
+        "legal_threat": false,
+        "competitor_mentioned": null,
+        "payment_dispute": false
+    },
+    "sentiment": {
+        "customer_start": "neutral",
+        "customer_end": "neutral",
+        "sentiment_trajectory": "neutral",
+        "executive_tone": "professional"
+    },
+    "topics": ["call_resolution", "indiaMART", "confirmation"],
+    "key_quotes": {
+        "main_complaint": null,
+        "customer_ask": null,
+        "resolution_offered": null,
+        "notable_statement": "Nahi, wo sara kuch sorted ho chuka hai Amit. Amit wo sara aur already sorted ho chuka hai. Maine unko thank you bhi bol diya maine."
+    },
+    "call_outcome": {
+        "primary_purpose": "query",
+        "was_purpose_fulfilled": true,
+        "customer_satisfied": true,
+        "requires_escalation": false
+    }
+}
+```

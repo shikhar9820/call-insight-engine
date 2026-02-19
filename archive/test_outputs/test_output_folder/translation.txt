@@ -1,0 +1,26 @@
+<<TRANSLATE_START>>
+Executive: Hello, greetings from IndiaMART, I am Deepak speaking. Am I speaking with Mr. Deepak ji?
+Customer: Yes, Deepak.
+Executive: Sir, I am calling you from IndiaMART. How are you?
+Customer: I am good.
+Executive: Ji, actually there are some services in your IndiaMART account that you can upgrade. So, would I be able to explain it to you for two minutes, sir?
+Customer: No, I don't need it right now, I don't need it.
+Executive: You don't need it? Okay sir. So, the services that you are currently using, are you receiving buyleads etc. in them, sir?
+Customer: Yes, I am receiving them.
+Executive: Okay. And your buyleads, do you regularly check them, sir?
+Customer: Yes.
+Executive: Okay. And are you getting any requirements through them?
+Customer: Yes, I am getting them.
+Executive: Okay, how many requirements do you get in a day, approximately, sir?
+Customer: This comes sometimes, sometimes it doesn't, there is nothing like that.
+Executive: Okay. So, whatever buyleads you get, do you respond to them, sir?
+Customer: Yes, I do.
+Executive: Okay. And is there any buylead in which you are facing some confusion, like you are not understanding what to do?
+Customer: No, there is no confusion.
+Executive: Okay. Sir, if you have any other requirement related to this business, you can tell me.
+Customer: There is nothing.
+Executive: There is nothing? Okay sir. Sir, if you want to upgrade any service in the future, or if you need any information, you can call me.
+Customer: Okay.
+Executive: Okay sir. Thank you so much sir, have a nice day.
+Customer: Thank you.
+<<TRANSLATE_END>>

@@ -1,0 +1,153 @@
+
+SOP: Seller Behaviour Understanding & Insight Generation
+(Using Activity, Consumption & Geography Signals)
+Objective
+To evaluate seller engagement, intent, and ROI potential by correlating responsiveness, lead consumption behaviour, category performance, and geographic preferences, and to generate clear insights & recommendations.
+
+1. Seller Responsiveness & Engagement Health
+Metric: pns_defaulter_count
+Definition:
+ Sellers who are not responding to direct buyer calls are tagged as PNS Defaulters.
+Behaviour Interpretation:
+High pns_defaulter_count = Low responsiveness + Low intent
+
+
+Indicates disengagement, poor follow-up discipline, or operational issues
+
+
+Impact on Other Metrics:
+Directly lowers ROI even if lead volume is high
+
+
+Reduces effectiveness of fresh lead consumption (cons_0_4_hrs)
+
+
+Weakens category performance (ba_rank_mcats / cc_rank_mcats)
+
+
+
+2. Lead Consumption Quality (Freshness Signal)
+Metric: cons_0_4_hrs
+Definition:
+ Number of leads consumed within 0–4 hours (fresh lead consumption).
+Behaviour Interpretation:
+High value = High seriousness + fast response culture
+
+
+Indicates strong buyer follow-up and higher conversion probability
+
+
+Impact on Other Metrics:
+Improves ROI significantly
+
+
+Increases category visibility and ranking
+
+
+Validates preferred geographies (city/state/country)
+
+
+
+3. Category Engagement & Visibility
+Metric: ba_rank_mcats
+Definition:
+ Only one transaction in a category over the last 6 months.
+Behaviour Interpretation:
+Seller is technically present but not actively working on that category
+
+
+Low buyer exposure and poor algorithmic visibility
+
+
+**Metric: cc_rank_mcats
+ Definition:
+ Category/product added but zero lead consumption.
+Behaviour Interpretation:
+Category is dormant or irrelevant for seller
+
+
+Either mis-added category or lack of intent
+
+
+Interlinking Logic:
+High cc_rank_mcats + Low cons_0_4_hrs → Category clutter issue
+
+
+High ba_rank_mcats → Needs category pruning or activation
+
+
+
+4. Geographic Willingness vs Reach
+Metric: cnt_neg_cities
+Definition:
+ Cities marked as “not preferred” by the seller.
+Behaviour Interpretation:
+High value = Restricted market reach
+
+
+Leads to reduced lead inflow
+
+
+**Metric: pref_city, pref_state, pref_country
+ Definition:
+ Geographies where seller actively consumes leads.
+Behaviour Interpretation:
+High values = Wider market appetite + scalability
+
+
+Strong correlation with consistent lead flow
+
+
+Interlinking Logic:
+High cnt_neg_cities + Low preferred geography → Over-restriction
+
+
+High preferred geography + High cons_0_4_hrs → Healthy expansion mindset
+
+
+
+5. Composite Seller Behaviour Patterns (AI Scoring Logic)
+A. High-Potential Seller
+Low pns_defaulter_count
+
+
+High cons_0_4_hrs
+
+
+Low cc_rank_mcats
+
+
+High preferred geographies
+
+
+Insight:
+Seller is engaged, responsive, and ROI-positive. Recommend scaling categories or geography.
+
+B. Dormant / At-Risk Seller
+High pns_defaulter_count
+
+
+Low cons_0_4_hrs
+
+
+High cc_rank_mcats
+
+
+High negative cities
+
+
+Insight:
+Seller requires immediate intervention, coaching, or corrective nudges.
+
+C. Misconfigured Seller
+Good responsiveness
+
+
+Poor category consumption (ba_rank_mcats, cc_rank_mcats)
+
+
+Limited geography
+
+
+Insight:
+Issue is configuration, not intent. Recommend category & geography optimization.

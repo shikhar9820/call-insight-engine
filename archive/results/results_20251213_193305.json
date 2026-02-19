@@ -1,0 +1,38 @@
+[
+  {
+    "ucid": "2bb0b84a-8b11-456a-9d61-ff3f8b56449c",
+    "transcript_length": 8467,
+    "translation_length": 7067,
+    "issues_count": 5,
+    "churn_risk": 0.8,
+    "churn_score_source": "gemini",
+    "churn_score_rule_calculated": 0.9,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "ec4ce354-cb34-46a1-81aa-1b301581948a",
+    "transcript_length": 10467,
+    "translation_length": 6883,
+    "issues_count": 2,
+    "churn_risk": 0.3,
+    "churn_score_source": "gemini",
+    "churn_score_rule_calculated": 0.1,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 2,
+    "success": true
+  },
+  {
+    "ucid": "fcbf0806-4564-4ee8-86c6-797ae35d401c",
+    "transcript_length": 7034,
+    "translation_length": 6827,
+    "issues_count": 5,
+    "churn_risk": 0.4,
+    "churn_score_source": "gemini",
+    "churn_score_rule_calculated": 0.1,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 4,
+    "success": true
+  }
+]

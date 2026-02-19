@@ -1,0 +1,496 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voice Hackathon - TechSAS</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0a1628;
+            color: #fff;
+            overflow: hidden;
+        }
+
+        .slide {
+            display: none;
+            min-height: 100vh;
+            padding: 40px 60px;
+            background: linear-gradient(135deg, #0a1628 0%, #1a365d 50%, #0a1628 100%);
+            position: relative;
+        }
+
+        .slide.active {
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Header bar styling - matches sample */
+        .header-bar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 80%;
+            height: 50px;
+            background: linear-gradient(90deg, #00b4d8 0%, #0077b6 100%);
+            clip-path: polygon(0 0, 100% 0, 95% 100%, 0% 100%);
+        }
+
+        .header-title {
+            position: absolute;
+            top: 10px;
+            left: 20px;
+            font-size: 1.4rem;
+            font-weight: 600;
+            color: #fff;
+            z-index: 10;
+        }
+
+        h1 {
+            font-size: 3rem;
+            color: #00d4ff;
+            margin-bottom: 30px;
+            text-shadow: 0 0 30px rgba(0, 212, 255, 0.4);
+        }
+
+        h2 {
+            font-size: 1.8rem;
+            color: #64b5f6;
+            margin-bottom: 25px;
+            font-weight: 400;
+        }
+
+        .content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            padding-top: 60px;
+        }
+
+        ul {
+            list-style: none;
+            font-size: 1.3rem;
+            line-height: 2;
+        }
+
+        ul li {
+            margin-bottom: 10px;
+            padding-left: 30px;
+            position: relative;
+        }
+
+        ul li::before {
+            content: "▸";
+            color: #00d4ff;
+            position: absolute;
+            left: 0;
+        }
+
+        .highlight-box {
+            background: rgba(0, 212, 255, 0.1);
+            border: 1px solid rgba(0, 212, 255, 0.3);
+            border-radius: 10px;
+            padding: 25px;
+            margin: 20px 0;
+        }
+
+        .pipeline {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin: 30px 0;
+        }
+
+        .pipeline-step {
+            background: rgba(0, 119, 182, 0.3);
+            border: 2px solid #00b4d8;
+            border-radius: 10px;
+            padding: 15px 25px;
+            text-align: center;
+            min-width: 130px;
+            font-size: 0.95rem;
+        }
+
+        .pipeline-arrow {
+            font-size: 1.5rem;
+            color: #00d4ff;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px;
+            margin: 25px 0;
+        }
+
+        .feature-card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 20px;
+            border: 1px solid rgba(0, 212, 255, 0.2);
+            text-align: center;
+        }
+
+        .feature-card .icon {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .feature-card h4 {
+            color: #00d4ff;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+        }
+
+        .feature-card p {
+            color: #94a3b8;
+            font-size: 0.9rem;
+        }
+
+        .navigation {
+            position: fixed;
+            bottom: 25px;
+            right: 30px;
+            display: flex;
+            gap: 10px;
+        }
+
+        .nav-btn {
+            background: #00b4d8;
+            color: #fff;
+            border: none;
+            padding: 12px 25px;
+            font-size: 0.9rem;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .nav-btn:hover {
+            background: #0077b6;
+            transform: scale(1.05);
+        }
+
+        .slide-counter {
+            position: fixed;
+            bottom: 25px;
+            left: 30px;
+            font-size: 0.9rem;
+            color: #64748b;
+        }
+
+        /* Title Slide */
+        .title-slide {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            background: linear-gradient(135deg, #0a1628 0%, #1e3a5f 50%, #0a1628 100%);
+        }
+
+        .title-slide .logo {
+            font-size: 5rem;
+            margin-bottom: 20px;
+        }
+
+        .title-slide h1 {
+            font-size: 3.5rem;
+            margin-bottom: 15px;
+        }
+
+        .title-slide .subtitle {
+            font-size: 1.8rem;
+            color: #94a3b8;
+            margin-bottom: 40px;
+        }
+
+        .title-slide .team {
+            font-size: 1.2rem;
+            color: #00d4ff;
+            margin-top: 30px;
+        }
+
+        /* Demo slide */
+        .demo-slide {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .demo-slide h1 {
+            font-size: 4rem;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; transform: scale(1); }
+            50% { opacity: 0.8; transform: scale(1.02); }
+        }
+
+        .demo-steps {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            margin-top: 40px;
+        }
+
+        .demo-step {
+            text-align: center;
+        }
+
+        .demo-step .number {
+            width: 60px;
+            height: 60px;
+            background: #00b4d8;
+            color: #fff;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            margin: 0 auto 15px;
+        }
+
+        /* QnA slide */
+        .qna-slide {
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .qna-slide h1 {
+            font-size: 5rem;
+        }
+
+        .qna-slide .thanks {
+            font-size: 1.5rem;
+            color: #94a3b8;
+            margin-top: 30px;
+        }
+
+        .tech-stack {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+
+        .tech-item {
+            background: rgba(0, 180, 216, 0.1);
+            border: 1px solid #00b4d8;
+            padding: 10px 25px;
+            border-radius: 25px;
+            font-size: 1rem;
+        }
+
+        .two-column {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            margin-top: 20px;
+        }
+
+        .column h3 {
+            color: #00d4ff;
+            margin-bottom: 15px;
+            font-size: 1.3rem;
+        }
+    </style>
+</head>
+<body>
+    <!-- Slide 1: Title -->
+    <div class="slide title-slide active">
+        <div class="logo">🎙️</div>
+        <h1>Insights Engine from Voice Calls</h1>
+        <div class="subtitle">AI-Powered Customer Call Intelligence</div>
+        <div class="tech-stack">
+            <span class="tech-item">Gemini 2.0</span>
+            <span class="tech-item">RAG</span>
+            <span class="tech-item">Next.js</span>
+            <span class="tech-item">Supabase</span>
+        </div>
+        <div class="team">Voice Hackathon - TechSAS</div>
+    </div>
+
+    <!-- Slide 2: Insights Engine from Voice Calls -->
+    <div class="slide">
+        <div class="header-bar"></div>
+        <div class="header-title">Insights Engine from Voice Calls</div>
+        <div class="content">
+            <h2>The Challenge</h2>
+            <div class="two-column">
+                <div class="column">
+                    <h3>Problem</h3>
+                    <ul>
+                        <li>1000s of support calls daily</li>
+                        <li>Manual review impossible</li>
+                        <li>Churn risks go undetected</li>
+                        <li>Multi-language (Hindi, Tamil, Telugu)</li>
+                    </ul>
+                </div>
+                <div class="column">
+                    <h3>Our Solution</h3>
+                    <ul>
+                        <li>AI analyzes every call automatically</li>
+                        <li>30+ insights extracted per call</li>
+                        <li>Real-time risk detection</li>
+                        <li>SOP recommendations from RAG</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="highlight-box" style="margin-top: 30px; text-align: center;">
+                <strong style="color: #00d4ff; font-size: 1.2rem;">
+                    "Every unanalyzed call is a potential churned customer"
+                </strong>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 3: Solution -->
+    <div class="slide">
+        <div class="header-bar"></div>
+        <div class="header-title">Solution</div>
+        <div class="content">
+            <h2>Multi-Agent AI Pipeline</h2>
+            <div class="pipeline">
+                <div class="pipeline-step">📞 Audio</div>
+                <span class="pipeline-arrow">→</span>
+                <div class="pipeline-step">📝 Transcribe<br><small>Hinglish</small></div>
+                <span class="pipeline-arrow">→</span>
+                <div class="pipeline-step">🌐 Translate<br><small>English</small></div>
+                <span class="pipeline-arrow">→</span>
+                <div class="pipeline-step">🤖 Analyze<br><small>Gemini</small></div>
+                <span class="pipeline-arrow">→</span>
+                <div class="pipeline-step">📚 RAG<br><small>SOPs</small></div>
+                <span class="pipeline-arrow">→</span>
+                <div class="pipeline-step">📊 Dashboard</div>
+            </div>
+
+            <div class="features-grid">
+                <div class="feature-card">
+                    <div class="icon">⚠️</div>
+                    <h4>Risk Detection</h4>
+                    <p>Churn score, deactivation intent, refund requests</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">📋</div>
+                    <h4>Issue Classification</h4>
+                    <p>11 categories: BuyLead, Payment, Technical...</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">💭</div>
+                    <h4>Sentiment Journey</h4>
+                    <p>Track mood: neutral → frustrated</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">📚</div>
+                    <h4>SOP Suggestions</h4>
+                    <p>Auto-recommend resolution steps</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">🏭</div>
+                    <h4>Industry Mapping</h4>
+                    <p>1000+ product categories</p>
+                </div>
+                <div class="feature-card">
+                    <div class="icon">💰</div>
+                    <h4>Cost Efficient</h4>
+                    <p>~$0.02 per call with Gemini</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 4: Demo Time -->
+    <div class="slide demo-slide">
+        <div class="header-bar"></div>
+        <div class="header-title">Demo Time!!</div>
+        <div class="content" style="padding-top: 0;">
+            <h1>🎬 Demo Time!!</h1>
+            <div class="demo-steps">
+                <div class="demo-step">
+                    <div class="number">1</div>
+                    <p>Upload Call<br>Recording</p>
+                </div>
+                <div class="demo-step">
+                    <div class="number">2</div>
+                    <p>AI Transcribes<br>& Analyzes</p>
+                </div>
+                <div class="demo-step">
+                    <div class="number">3</div>
+                    <p>View Insights<br>& Risks</p>
+                </div>
+                <div class="demo-step">
+                    <div class="number">4</div>
+                    <p>Get SOP<br>Recommendations</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Slide 5: QnA -->
+    <div class="slide qna-slide">
+        <div class="header-bar"></div>
+        <div class="header-title">QnA</div>
+        <div class="content" style="padding-top: 0;">
+            <h1>❓ Q&A</h1>
+            <div class="thanks">Thank you for listening!</div>
+            <div class="tech-stack" style="margin-top: 40px;">
+                <span class="tech-item">Gemini 2.0 Flash</span>
+                <span class="tech-item">ChromaDB RAG</span>
+                <span class="tech-item">Next.js 14</span>
+                <span class="tech-item">Supabase</span>
+                <span class="tech-item">Python</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide-counter">
+        Slide <span id="currentSlide">1</span> / <span id="totalSlides">5</span>
+    </div>
+
+    <div class="navigation">
+        <button class="nav-btn" onclick="prevSlide()">← Prev</button>
+        <button class="nav-btn" onclick="nextSlide()">Next →</button>
+    </div>
+
+    <script>
+        let currentSlide = 0;
+        const slides = document.querySelectorAll('.slide');
+        const totalSlides = slides.length;
+
+        document.getElementById('totalSlides').textContent = totalSlides;
+
+        function showSlide(n) {
+            slides[currentSlide].classList.remove('active');
+            currentSlide = (n + totalSlides) % totalSlides;
+            slides[currentSlide].classList.add('active');
+            document.getElementById('currentSlide').textContent = currentSlide + 1;
+        }
+
+        function nextSlide() {
+            showSlide(currentSlide + 1);
+        }
+
+        function prevSlide() {
+            showSlide(currentSlide - 1);
+        }
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowRight' || e.key === ' ') nextSlide();
+            if (e.key === 'ArrowLeft') prevSlide();
+        });
+    </script>
+</body>
+</html>

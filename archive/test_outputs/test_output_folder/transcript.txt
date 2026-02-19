@@ -1,0 +1,26 @@
+<<TRANSCRIPT_START>>
+Executive: Hello, namaskar IndiaMART se main Deepak bol raha hun. Kya meri baat Mr. Deepak ji se ho rahi hai?
+Customer: Haan Deepak.
+Executive: Sir main aapko IndiaMART se call kar raha hun. Kaise hain aap?
+Customer: Achcha hun.
+Executive: Ji, actually aapke IndiaMART ke account mein kuch services hain jinko aap upgrade kar sakte hain. To kya main aapko do minute ke liye samjha paunga sir?
+Customer: Nahin, abhi nahin chahiye, mere ko nahi chahiye.
+Executive: Nahi chahiye? Thik hai sir. To aapka jo abhi current mein aap services use kar rahe hain usmein aapko buyleads wagerah mil rahe hain sir?
+Customer: Haan, mil rahe hain.
+Executive: Achcha. Aur aapke jo buyleads hain, aap unko regularly check karte hain sir?
+Customer: Haan.
+Executive: Okay. Aur aapko uske through koi requirement wagerah mil rahi hai kya?
+Customer: Haan, mil rahi hai.
+Executive: Achcha, kitni requirement aapko matlab mil jaati hogi sir ek din mein?
+Customer: Yeh to kabhi kabhi kabhi kabhi mil jaati hai, aise kuch nahin hai.
+Executive: Achcha. To jo bhi aapko buyleads milte hain, aap unko respond karte hain sir?
+Customer: Haan karta hun.
+Executive: Okay. Aur koi aisa buylead jo matlab jismein aapko thoda sa confusion wagerah ho raha ho ki samajh mein nahi aa raha ho ki kya karna hai?
+Customer: Nahin, nahin koi confusion nahi hai.
+Executive: Okay. Sir aapka is business se related koi aur bhi requirement ho to aap mujhe bata sakte hain.
+Customer: Kuch nahi hai.
+Executive: Kuch nahi hai? Thik hai sir. Sir aapko agar future mein agar aapko koi service upgrade karni ho ya phir aapko koi information chahiye ho to aap mujhe call kar sakte hain.
+Customer: Thik hai.
+Executive: Thik hai sir. Thank you so much sir, have a nice day.
+Customer: Thank you.
+<<TRANSCRIPT_END>>

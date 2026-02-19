@@ -1,0 +1,215 @@
+# Seller Call Checklist and Review Process
+
+## Objective
+Provide executives with a clear and AI-assisted view of a seller's history, gaps, missed areas, and essential checks for every client call.
+
+## 1. Basic Checks Before the Call
+
+### Verify Business Details
+- Location
+- Business Nature
+- Turnover
+- Website
+
+### Review Product Information
+- Product Groups seller deals in
+- CQS (Catalog Quality Score)
+- Consumption pattern (last 3 months)
+
+### Check Activity Metrics
+- BL Active Days
+- LMS Active Days
+- PNS Response Rate
+
+### Verify Settings
+- Notification Status
+- Review Rating
+- Inactive Product Count
+- Filter Saved Count
+
+## 2. Catalog & Usage Gap Checks
+
+### Category Analysis
+- Count categories without primary mapping (Total, A-Rank, PMCAT)
+- Check D-Rank category count
+- Check Negative (-VE) category count
+- Identify categories that need removal
+- Identify relevant categories that can be added
+
+### Product Analysis
+- Review products without images
+- Review products without prices
+- Check inactive products
+
+### Service Configuration
+- Verify PNS number mapping
+- Check catalog views consumption
+
+## 3. Service Usage Review
+
+### Lead Preferences
+- Review BL location preference
+- Review DLP (Domestic Location Preference)
+- Check if seller receives relevant leads based on chosen city count
+
+### Historical Issues
+- Identify competition or pricing issues mentioned earlier
+- Review any previous cases or tickets raised
+- Check pending work shared in earlier calls
+
+## 4. Ticket History & Repeat Issue Identification
+
+### Review Process
+- Review last 3 months (60-90 days) of ticket history
+- Identify repeat patterns:
+  - Location issues
+  - Catalogue mismatch
+  - Expectation mismatch
+  - DLP issues
+
+### Validation
+- Validate resolutions given earlier
+- Check if follow-up was done
+- Check if expectation setting was done correctly
+- Identify if seller issue is solvable or depends on product/market factors
+
+## 5. Mandatory Call Discussion Points
+
+### Key Topics
+- CLM history and previous work summary
+- Discussion on A-Rank, D-Rank, PMCAT, PNS mapping
+- Explain catalog quality importance (Images, Prices, Activity)
+- Explain impact of Filters and ensure seller saves required filters
+- Set accurate expectations based on category, location, and competition
+- Educate seller on usage (LMS, PNS, Catalogue Views, Notifications)
+
+## 6. Guidance to Provide Based on Observations
+
+### Recommendations
+- Category addition/removal suggestions
+- Product addition/correction guidance
+- Grouping corrections
+- CQS improvement guidelines
+- Filter usage and saving required filters
+- Ticket follow-up and future monitoring plan
+
+## 7. What AI Should Display to Executive
+
+For each GLID (Global ID), auto-display:
+- Summary of business & consumption
+- Catalog gaps (mapping, inactive, no picture/price)
+- Previous ticket issues and resolution status
+- Missed action items from earlier calls
+- Suggested improvement areas
+- Recommended mandatory discussion points
+
+## 8. Executive Call Flow Template
+
+### Step-by-Step Process
+1. **Greet & Verify Seller Details**
+   - Confirm name, business, and issue
+
+2. **Understand Current Issue**
+   - Listen to seller's concerns
+
+3. **Share Observations from AI Summary**
+   - Present AI-based history summary
+   - Highlight catalog gaps and usage gaps
+
+4. **Discuss Catalogue & Mapping Gaps**
+   - Category issues
+   - Product issues
+   - Mapping corrections needed
+
+5. **Discuss Service Usage & Improvement Areas**
+   - A Rank, D Rank, PMCAT, PNS usage, Consumption
+   - Filter usage
+   - Catalog view guidance
+
+6. **Explain Fixes & Guide Seller**
+   - Category addition/removal
+   - Product addition or correction
+   - Grouping fixing
+   - CQS improvement steps
+
+7. **Set Correct Expectations**
+   - Clarify lead flow based on category, location & competition
+   - Educate seller on system working & metrics
+
+8. **Record Notes Clearly in CLM**
+   - Guidance provided
+   - Work pending
+   - Expected timelines
+   - Next follow-up date
+
+9. **Define Next Follow-up Action**
+   - Schedule next contact
+   - List pending items
+
+## 9. Expected Outcomes
+
+- Reduced repeat cases
+- Better expectation setting
+- Improved catalog quality
+- Enhanced seller experience
+- Better resolution and clarity during calls
+
+## 10. Record Maintenance
+
+All call summaries, guidance, and follow-up actions must be maintained in:
+- CLM (Customer Lifecycle Management)
+- Audit tracker
+- Seller review document (if applicable)
+
+## 11. Pre-Call Quick Checklist
+
+### A. Pre-Call Review
+- [ ] Check business details (Location, Nature, Website, Turnover)
+- [ ] Review CQS & Consumption (3 months)
+- [ ] BL Active Days / LMS Active Days
+- [ ] PNS Response Rate & Mapped Numbers
+- [ ] Check Notification Status & Review Rating
+- [ ] Review past tickets (60-90 days)
+- [ ] Identify repeat issues & pending actions
+- [ ] Note catalog gaps (Mapping, D-Rank, Inactive, No Price/Image)
+- [ ] Check category relevance and improvement scope
+
+### B. During Call
+- [ ] Greet & verify seller identity
+- [ ] Understand concern clearly
+- [ ] Share AI-based history insights
+- [ ] Discuss catalog issues (mapping, images, inactive, product groups)
+- [ ] Discuss service usage gaps (Filters, PNS, Catalog Views)
+- [ ] Provide improvement guidance
+- [ ] Set accurate expectations for lead flow
+- [ ] Clarify location-based limitations (if any)
+- [ ] Educate seller on usage tools (LMS, PNS, Filters)
+
+### C. Post-Call Action
+- [ ] Document summary in CLM
+- [ ] List pending work & responsibilities
+- [ ] Share clear timelines
+- [ ] Plan next follow-up call
+- [ ] Add required tasks to audit/tracker
+- [ ] Monitor for repeat or unresolved issues
+
+## Key Metrics and Terms
+
+### Rank Categories
+- **A-Rank**: High-performing categories with good lead flow
+- **D-Rank**: Low-performing categories
+- **PMCAT**: Primary Mapped Category
+- **Negative (-VE) Categories**: Categories to be avoided/removed
+
+### Activity Metrics
+- **BL Active Days**: Days seller actively consumed BuyLeads
+- **LMS Active Days**: Days seller was active on Lead Management System
+- **PNS Response Rate**: Percentage of calls answered via Preferred Number Service
+- **CQS**: Catalog Quality Score (target: 80%+)
+
+### Important Abbreviations
+- **CLM**: Customer Lifecycle Management
+- **GLID**: Global ID (unique seller identifier)
+- **DLP**: Domestic Location Preference
+- **MOQ**: Minimum Order Quantity
+- **ISQ**: Important Selling Qualifiers

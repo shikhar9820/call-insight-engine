@@ -1,0 +1,261 @@
+# Ticket Handling SOP - Standard Operating Procedure
+
+## 1. BuyLead Related Issues
+
+### Q: Buyer Denying Requirement
+Ask for BuyLead details:
+
+a. If Lead is Old:
+   - Ask client to purchase latest lead
+   - Reason: Buyer might have contacted other suppliers and fulfilled requirement
+
+b. If Lead is Recent:
+   - Initiate ticket in BuyLead Approval/Mapping Issues bucket
+   - Include: lead number, buyer response
+   - Wait for internal ticket revert
+   - If team suggests reverse the lead: Process reversal
+   - Else: Share information with client and educate that:
+     - We allocate good number of weekly leads apart from direct queries & calls
+     - If one buyer denied, try connecting with others
+     - IndiaMART introduces to prospective buyers but final response & deal is between buyer & supplier
+     - We do not have control or surety of conversion on every lead
+
+### Q: Not Getting BL Notifications/Alerts
+A. Guide client to check from seller panel:
+   Path: Seller >> Setting >> Notification Setting >> BuyLeads/Tenders
+   Client can manage all alerts from here
+
+B. If still not receiving alerts:
+
+   For Email Alerts:
+   - Emails may end up in spam/junk folder or labels like promotion, update, social
+   - Suggest checking spam/junk folder
+   - If IndiaMART emails found in spam, mark as 'not spam'
+   - Add IndiaMART email address to contact list
+   - Note: BuyLead alerts are NOT sent to secondary email ID
+
+   For App Alerts:
+   - Check & update the app
+   - Check if app is logged in via primary number
+   - If required, reinstall the app
+
+   If Issue Persists:
+   - Raise issue on CSD tester with details:
+     - When client started facing issue
+     - Is it only for leads or PNS & enquiries also
+
+### Q: Unable to Consume BuyLeads
+Troubleshooting Steps:
+a. Check if client is logged in via registered number
+b. Probe if client has consumed leads but details not visible, OR cannot consume leads
+c. If cannot consume: Check weekly allocated BL balance
+d. Check if client trying to consume domestic or foreign BL
+e. If no export services and trying foreign BL: Must pay for individual lead or cannot consume
+f. If has balance and trying domestic leads but still cannot consume: Raise issue on CSD tester
+
+### Q: How to Consume Tender
+Path:
+a. Login seller panel
+b. Click on buy leads
+c. In top ribbon find 'Latest Tenders'
+d. Click on 'View tender information'
+e. 1 BL credit consumed against 1 tender
+
+Note: Seller can use GEM portal for bidding after reviewing Tenders
+- Need to create Login on GEM portal
+- One-time charge of Rs. 5000 applicable
+
+### Q: Does IM Provide Good Leads to High Paid Sellers?
+A. No, there is no bifurcation of leads based on listing
+B. A lead is introduced to all suppliers at the same time
+C. Response depends on: early connect, competitive prices, catalog quality, negotiation
+D. Listing impacts: number of PNS calls & direct enquiries (buyers reach top available suppliers)
+
+### Q: Supplier Not Able to View Buyer Contact Details
+Cause: Primary or secondary contact details not verified
+Resolution:
+- Ask client to verify mobile number and email ID
+- Details appear masked (7XXXXXXX2) if not verified
+- Re-verification required annually
+- Example: Verified on 15th Jan 2019 = Re-verify on/after 15th Jan 2020
+
+## 2. Maturity Related Issues
+
+### Q: Not Getting Maturity from IndiaMART / No Business
+Resolution Steps:
+
+A. Ask if getting relevant leads:
+   - If not relevant: Follow BL irrelevancy flow (Issue 3 from BuyLead SOP)
+
+B. If leads are relevant, check engagement:
+   - DAU (Daily Active Usage)
+   - PNS response
+   - LMS activity
+   - If lacking, inform: "You are not active on BL consumption, missing opportunity on approx 2-4 buyers every week"
+
+C. Educate basic steps for maturity:
+   - Actively consume allocated weekly BLs
+   - Be active on enquiry & LMS replies by sending quotations
+   - Answer all direct incoming calls from prospective buyers
+   - Update catalog quality score (description & images)
+
+D. Additional Guidance:
+   - Respond to buyer inquiries as quickly as possible
+   - Use alternative communication: email, phone calls if unresponsive on portal
+   - Check competitor pricing, adjust if comparatively high
+
+E. Expectation Setting:
+   - Leads depend on market demand
+   - Similar to offline market: customer visiting doesn't mean they'll purchase
+   - IndiaMART can guarantee relevant buyers, but conversion depends on various factors
+
+## 3. Deactivation Issues
+
+### Q: Want to Deactivate Services / Want Refund
+Initial Response: "We are sorry to hear that, can you please share the reason?"
+
+IF Related to BL or Maturity Issues:
+- Follow respective processes for those issues
+
+IF Related to Other Issues (fund issue, etc.) and client still wants deactivation:
+
+#### a. IVE Related Deactivation
+Solution 1: Explain IVE package benefits, ask for package conversion
+Solution 2: Offer complimentary service extension (max 1-2 months, ZM approval needed)
+- If client agrees: Close ticket
+- Else: Proceed with refund/deactivation
+
+#### b. Service-Related Deactivation
+- For lapsable BL concern: Offer free BL (min 25, max 50 as per limit)
+- For pending/unresolved concerns: Try to resolve those issues first
+- For issues not as per IM policy: Clearly inform client, proceed if they still want deactivation
+
+#### c. Mis-commitment Related Deactivation
+- Get required details (written communication, recording proving mis-commitment)
+- Apologize & do correct expectation setting
+- Arrange call with L3 for expectation setting & retention
+- L3 will either retain client or suggest refund
+
+#### d. Catalog/Product Related Deactivation
+- L1 calls and performs product/mapping changes
+- If not resolved: Arrange meeting with FSF or L2 call
+- If still not resolved: L3 call to retain or proceed with refund
+
+#### e. BL Irrelevancy Deactivation
+- Discuss BL with client
+- Correct mapping, promote BLNI
+- Do expectation setting
+- If not resolved: L2 call or FSF meeting
+- Day 3: BM call - either retain or suggest refund
+
+#### f. Client Not Interested in IM
+
+**Business Closed:**
+- Check if GST surrendered (Y/N)
+- Check if sister concern company/website closed (Y/N)
+- If yes to both: Follow deactivation process
+- Else: Day 3 BM call for retention or refund
+
+**Fund Issue:**
+- Suggest EMI/credit card option
+- If still refuses: Do not force, respect decision
+
+### Deactivation Process Flow
+- **Day 1**: L2/FSF intervention - try to retain
+- **Day 2**: L3 intervention - try to retain or initiate deactivation
+- **Day 3-5**: BM/L3 gets ZM approval on download checklist (ZM can hold max 3 days)
+- **Day 6**: Review 2 on checklist by ZM with deactivation RCA, proceed service download
+- **Day 7**: Open refund initiation ticket for JV creation, inform client of TAT (7-10 working days)
+
+## 4. Employee Issues
+
+### Q: Not Happy with Account Manager / Want to Change
+First clarify: Is it BD, Customer Care, or other vertical?
+
+Common Issues:
+a. **Not Responding Properly**: Find out duration, apologize, arrange concall/meeting with AM
+b. **Not Resolving Issues**: Apologize, ask for issue details, work towards resolution
+c. **Misbehavior**: Apologize on behalf of employee, assure action has been taken
+d. **Mis-commitment**: Empathize with client, set correct expectations
+e. **Excessive Follow-up for Renewal/Upsell**: Apologize, assure no more excessive calls
+
+After resolution, if client still wants AM change: Ensure input is taken and changes will be done
+
+## 5. PNS Related Issues
+
+### Q: Getting Spam Calls / How to Block
+- Press #1 during the call to block spam callers
+- Service will continue to remain activated
+- Call will be blocked
+
+### Q: Missed Buyer Calls - How to Source Details
+- SMS and email alert sent on each missed call with buyer name and details
+- Check Lead Manager on seller panel for all missed calls
+- Search buyer by name/number on Lead Manager and connect
+
+### Q: Getting Irrelevant/Too Many Calls
+Identify type of spam:
+- If Marketing/Promotional: Guide to press #1 during call
+- If Buyers Just Asking Price: Guide to discuss more, follow up - they may become potential buyers
+
+### Q: Calls Getting Disconnected Automatically
+Possible Reasons:
+a. Call answered on another number mapped in PNS
+b. Call made from number mapped in PNS
+c. Buyer disconnects before seller's phone rings
+d. IM Buyer Number blocked via TrueCaller or call blocking app
+
+If none of above:
+- Check status of last 5 calls
+- If 2 out of 5 disconnected: Raise internal ticket in PNS Bucket
+- Educate client that team will assist
+
+### Q: How to Add/Edit/Remove Number from PNS
+Path: Seller Panel >> Settings >> PNS Settings
+
+**Add Number:**
+- Add more numbers >> Pop up appears >> Add number >> Save
+
+**Edit Number:**
+- Hover on number >> Click Edit >> Edit in popup >> Save
+
+**Delete Number:**
+- Hover on number >> Click Delete >> Confirm in popup >> OK
+
+### Q: Not Getting PNS Calls on Particular Number
+Checks:
+A. Is number mapped under PNS? If not, map it
+B. Are numbers on same device or separate? Use separate devices
+C. Is IM Buyer number blocked on TrueCaller? Unblock it
+D. For landline: Check if added in Fax section
+E. If issue persists: Initiate ticket in PNS bucket
+
+### Q: Getting Calls in Late/Early Hours
+Set time slot for each number:
+- Office hours: 9:00 AM to 7:00 PM (Monday to Saturday)
+- Non-office hours: 7:00 PM to 9:00 AM (Monday to Saturday) and Sunday/national holidays
+- Path: Settings >> PNS Call Settings >> Activate/deactivate for office or non-office hours
+
+### Q: Not Getting Calls on PNS
+- Confirm if not getting calls at all or for specific time/duration
+- Do basic troubleshooting: Check PNS settings
+- Check if TrueCaller installed (marks calls as spam)
+- Else: Raise internal ticket to PNS team
+
+### Q: What if Client Misses Call from Preferred Number?
+- SMS and email sent on primary mobile number and email ID
+- Client can retry calling the buyer
+- Check Lead Manager for missed call details
+
+## Escalation Levels
+
+- **L1**: First level support (Customer Care Executive)
+- **L2**: Second level support (Senior Executive)
+- **L3**: Third level support (Manager)
+- **FSF**: Field Sales Force
+- **BM**: Business Manager
+- **ZM**: Zonal Manager
+
+## Important Contact Information
+- Customer Support: 09696969696
+- Email: customercare@indiamart.com

@@ -1,0 +1,12 @@
+[
+  {
+    "ucid": "798c2908-4202-4715-af6c-0d1d87146ff2",
+    "transcript_length": 9044,
+    "translation_length": 7295,
+    "issues_count": 3,
+    "churn_risk": 0.4,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  }
+]

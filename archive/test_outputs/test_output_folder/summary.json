@@ -1,0 +1,46 @@
+```json
+{
+    "issues": [],
+    "resolution": {
+        "status": "unresolved",
+        "actions_taken": [],
+        "promises_made": [],
+        "follow_up_required": false,
+        "follow_up_owner": "none",
+        "follow_up_timeline": null
+    },
+    "risk_signals": {
+        "churn_risk_score": 0.1,
+        "deactivation_intent": false,
+        "deactivation_confirmed": false,
+        "refund_requested": false,
+        "escalation_threatened": false,
+        "legal_threat": false,
+        "competitor_mentioned": null,
+        "payment_dispute": false
+    },
+    "sentiment": {
+        "customer_start": "neutral",
+        "customer_end": "neutral",
+        "sentiment_trajectory": "neutral",
+        "executive_tone": "professional"
+    },
+    "topics": [
+        "buylead",
+        "upgrade",
+        "services"
+    ],
+    "key_quotes": {
+        "main_complaint": null,
+        "customer_ask": null,
+        "resolution_offered": null,
+        "notable_statement": "Nahin, abhi nahin chahiye, mere ko nahi chahiye."
+    },
+    "call_outcome": {
+        "primary_purpose": "query",
+        "was_purpose_fulfilled": false,
+        "customer_satisfied": "unclear",
+        "requires_escalation": false
+    }
+}
+```

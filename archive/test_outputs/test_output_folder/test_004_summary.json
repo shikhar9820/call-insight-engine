@@ -1,0 +1,92 @@
+```json
+{
+    "issues": [
+        {
+            "category": "buylead_quality",
+            "subcategory": "irrelevant_leads",
+            "description": "Customer states buy leads are not according to their needs.",
+            "severity": "medium",
+            "mentioned_by": "customer",
+            "timestamp_location": "start"
+        },
+        {
+            "category": "buylead_quality",
+            "subcategory": "low_volume",
+            "description": "Customer feels the number of valid leads they can consume is too low compared to the total leads received.",
+            "severity": "medium",
+            "mentioned_by": "customer",
+            "timestamp_location": "middle"
+        },
+        {
+            "category": "buylead_quality",
+            "subcategory": "poor_quality",
+            "description": "The customer is not satisfied with the quality of leads received.",
+            "severity": "medium",
+            "mentioned_by": "customer",
+            "timestamp_location": "middle"
+        },
+        {
+            "category": "technical",
+            "subcategory": "feature_not_working",
+            "description": "Customer needs assistance on how to use the 'I am interested' feature on sold out leads.",
+            "severity": "low",
+            "mentioned_by": "customer",
+            "timestamp_location": "middle"
+        },
+        {
+            "category": "buylead_quality",
+            "subcategory": "wrong_category",
+            "description": "Customer is having issues with quantity of material in the buyleads",
+            "severity": "medium",
+            "mentioned_by": "customer",
+            "timestamp_location": "end"
+        }
+    ],
+    "resolution": {
+        "status": "partial",
+        "actions_taken": [
+            "Executive offered to explain the 'I am interested' feature on Google Meet.",
+            "Executive shared a Google Meet link with the customer."
+        ],
+        "promises_made": [],
+        "follow_up_required": false,
+        "follow_up_owner": "none",
+        "follow_up_timeline": null
+    },
+    "risk_signals": {
+        "churn_risk_score": 0.6,
+        "deactivation_intent": false,
+        "deactivation_confirmed": false,
+        "refund_requested": false,
+        "escalation_threatened": false,
+        "legal_threat": false,
+        "competitor_mentioned": null,
+        "payment_dispute": false
+    },
+    "sentiment": {
+        "customer_start": "frustrated",
+        "customer_end": "neutral",
+        "sentiment_trajectory": "negative_to_neutral",
+        "executive_tone": "professional"
+    },
+    "topics": [
+        "buylead",
+        "lead_quality",
+        "trustseal",
+        "google_meet",
+        "subscription"
+    ],
+    "key_quotes": {
+        "main_complaint": "Yaar wo hamare hisab se nahi aa rahi hain wo cheezein, mene aapko kai baar request ki hai.",
+        "customer_ask": "Mujhe ek baar bata do Google Meet session pe kaise karna hai.",
+        "resolution_offered": "Thik hai mein aapko sir ek Google Meet jo hai link share kar diya hoon.",
+        "notable_statement": "That I am not satisfied that the leads are coming are correct. that is not coming"
+    },
+    "call_outcome": {
+        "primary_purpose": "complaint",
+        "was_purpose_fulfilled": false,
+        "customer_satisfied": false,
+        "requires_escalation": false
+    }
+}
+```

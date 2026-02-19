@@ -1,0 +1,32 @@
+[
+  {
+    "ucid": "5f081000-b719-4058-ae18-2ab20c625c98",
+    "transcript_length": 9353,
+    "translation_length": 7172,
+    "issues_count": 5,
+    "churn_risk": 0.8,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "2bb0b84a-8b11-456a-9d61-ff3f8b56449c",
+    "transcript_length": 8467,
+    "translation_length": 6914,
+    "issues_count": 8,
+    "churn_risk": 0.8,
+    "sentiment": "neutral -> disappointed",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "ec4ce354-cb34-46a1-81aa-1b301581948a",
+    "transcript_length": 10467,
+    "translation_length": 6820,
+    "issues_count": 1,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 1,
+    "success": true
+  }
+]

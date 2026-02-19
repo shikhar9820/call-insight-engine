@@ -1,0 +1,213 @@
+# IndiaMART Products and Packages
+
+## BuyLead Allocation Policy
+
+### Daily BuyLeads
+- Valid only for the same day
+- Automatically lapse at 11:59 PM every night
+- Cannot be accessed or reactivated after lapse
+- Advice: Consume leads as soon as they appear for maximum relevance
+
+### Weekly BuyLeads
+- Allocated on Sundays @ 12:00 AM
+- Unused Weekly BuyLeads get lapsed on Saturdays @ 11:59 PM
+
+## Product Packages and BuyLead Allocation
+
+### MDC (Mini Dynamic Catalogue)
+- Monthly Plan: 7 Buy Leads every week
+- Annual Plan: 10 Buy Leads every week
+- Daily Bonus: 1 BL daily (expires same day at 11:59 PM)
+- Benefits:
+  - Business leads to connect with prospective buyers
+  - Higher listing vs competitors for stronger online presence
+  - LMS: Smart lead management system with instant alerts
+  - Zero missed calls: Call Forwarding Facility (PNS) on up to 5 numbers
+  - Professional catalogue designed by experts
+
+### TrustSEAL
+- Weekly BuyLeads: 20 Buy Leads every week
+- Daily Bonus: 2 BL daily (expires same day at 11:59 PM)
+- Key Benefits:
+  - TrustSEAL Logo: Instantly adds credibility when buyer visits catalog
+  - TrustSEAL Stamp: Competitive edge with distinct seal on listings
+  - TrustSEAL Certificate: Physical & digital copy proof of authenticity
+  - Better Visibility: Higher listing placement than standard suppliers
+
+### Maximiser
+- Weekly BuyLeads: 30 Buyleads every week
+- Daily Bonus: 2 BL daily (expires same day at 11:59 PM)
+- Key Benefits:
+  - Personal Domain: Own domain (.com/.net/.in/.co.in) with server access
+  - Reliable Buyer Connect: 4 corporate email IDs + PNS service
+  - Designed Catalog: 360° visibility with PDF catalogs, up to 10,000 products
+  - Increased Credibility: Enhanced trust with TrustSEAL badge
+  - Mobile-Responsive Templates: Seamless engagement with buyers
+
+### Star
+- Base: 30 weekly + 2 daily buyleads
+- Per Category Addition: 7 weekly + 1 daily for each category on top of base
+
+### Leader
+- Base: 40 weekly + 2 daily buyleads
+- Per Category Addition: 14 weekly + 1 daily for each category on top of base
+
+## How to Check BuyLead Balance
+
+### On Desktop/Seller Panel
+Path: Seller Panel >> Buyleads >> Balance BL (on right side of screen)
+- Login to seller panel
+- Click on buyleads section
+- Right side of screen shows BL balance
+
+### In Mobile App
+Path: Open App >> Buyleads >> Upper right corner (three dots) >> Buyleads Balance
+- Login to app
+- Click on buyleads section (left)
+- Top right corner click three dots
+- Click on BL balance
+
+## Sold Out Leads
+When a lead shows as "Sold Out":
+- The BuyLead has been consumed by maximum permissible sellers already
+- Guide client to be highly active on panel/app
+- Check if notification alert is switched on
+- Verify contact information is correct
+- Suggest enabling phone notification alert with distinctive ringtone
+- Path for notifications: Seller Panel >> Setting >> Notifications Setting >> On all relevant alerts
+- Guide client to consume other similar leads
+- Suggest adding Auto Refresher extension to browser
+- Show Past BL section to emphasize huge availability and importance of being active
+
+## Enquiries
+
+### Less Enquiries - Resolution Steps
+
+1. Improve Product Catalogue
+   - Add more relevant products & categories
+   - Ensure proper product mapping (category + keyword)
+   - Add prices to products (products with price get more visibility)
+   - Upload clear photos
+   - Add detailed specs: size, model, usage, brand, etc.
+
+2. Increase Catalogue Quality Score
+   - Target: Product Quality Score above 80
+   - Higher score = better ranking and more enquiries
+   - Path: Seller Panel > Products > Check Product Scores
+   - Improve: image, video, description, specifications
+
+3. Stay Active
+   - Log in regularly (desktop/app)
+   - Consume available leads quickly
+   - Keep notifications ON
+   - Don't miss out on calls
+   - Ask for review and rating after every deal
+   - Add more details on company profile for authenticity
+
+### Less Conversion - Resolution Steps
+
+1. Respond Immediately
+   - Call within 2 minutes of lead consumption
+   - Send quotations on WhatsApp/email immediately
+   - First 2 sellers usually get buyer reply
+
+2. Send Complete Quotations
+   - Mention delivery & payment terms clearly
+   - Include images & specifications in quotation
+   - Keep quotation simple and clear
+
+3. Regular Follow-Up
+   - Call again in 6 hours if no reply
+   - Message politely on WhatsApp/email
+   - Follow-up increases conversion
+
+4. Keep Pricing Competitive
+   - Optimize pricing according to market
+
+5. Use Lead Feedback Tools
+   - Mark irrelevant leads as 'Not Relevant'
+   - System provides better leads in future
+   - Path: Seller Panel > Buyleads > Top right Mark as Not Relevant (BLNI)
+
+6. Use LMS
+   - Use filters and tags to sort enquiry data
+   - Active follow-up on sorted data
+
+## Products Management
+
+### Add Products
+Desktop:
+- Go to "Products" section on left side of dashboard
+- Enter relevant product details: name, description, price, features
+- Upload clear, high-quality images
+- Add product video if available
+- Click "Finish" to add product
+
+App:
+- Click on Add Product button (bottom left)
+- Fill in required details
+
+### Bulk Product Upload
+Desktop: Products >> More options (right side) >> Add multiple products
+- Download file format, fill it, upload
+App: Add products >> Add Multiple Products
+
+### Pricing Guidelines
+- Add prices to all products
+- Competitive pricing helps with:
+  - Instant visibility and more credibility
+  - Relevant enquiries from relevant buyers
+  - Quick buying decisions and better maturity chances
+  - Preference in IndiaMART Search
+- Bulk price update: Products >> More Options >> Quick Price Updates
+
+### Image Guidelines
+
+Mobile App:
+- Minimum resolution: 500px
+- Maximum dimensions: 2000px
+- Maximum file size: 5MB without compression
+- Product must cover entire image area (white background)
+- No additional objects or mix of different products
+- No text: watermark, logo, prices, offers, timestamps
+- Different angles = separate images
+- Each image must be unique
+
+Seller Panel:
+- Minimum resolution: 500px
+- Preferred dimensions: up to 2000px (larger images resized from backend)
+- Maximum file size: 10MB
+- Product must cover 60-70% of image area (white background)
+- No additional objects or mix of products
+- No text: watermark, logo, prices, offers, timestamps
+- No drawings or illustrations
+- Each image must be unique
+
+### Products Not Reflecting on Catalog
+If product not listed, check if listing approved or rejected:
+- Path: Seller.IM >> Manage products >> 'Inactive' tab >> 'Rejected' tab
+- Under 'Inactive' tab see product and rejection reason
+- Check self-help videos (middle right blue tab in products section)
+- Contact: 9696969696 or customercare@indiamart.com
+
+### How to Improve Catalog Quality
+
+1. Check Product Score
+   - Seller Panel > Product List > Check Product Quality Score
+   - Identify products with score below 100
+
+2. Enhance Each Attribute
+   - Photo: Clear, high-resolution images (front, back, side view)
+   - Video: Short product demo or factory video
+   - Specifications: Size, material, model, capacity, brand, usage
+   - Price & MOQ: Correct price range and minimum order quantity
+
+3. Benefits of High Quality Catalog
+   - Builds buyer trust
+   - Increases enquiry flow and conversion chances
+   - Better ranking in IndiaMART search results
+
+## Contact Account Manager
+Desktop: Scroll down in dashboard section for account manager details
+App: Hamburger menu (top left) >> Scroll down >> "Call Customer Support"
+General: Contact 09696969696 or email customercare@indiamart.com

@@ -1,0 +1,69 @@
+<<TRANSCRIPT_START>>
+Executive: Hello.
+
+Customer: Hello.
+
+Executive: Yes sir.
+
+Customer: Haan ji sir aap Jupiter Ecoline se baat kar rahe hai sir?
+
+Executive: Haan ji, aani kaun baat kar rahe hai sir?
+
+Customer: Ji sir main IndiaMART se baat kar raha hoon sir.
+
+Customer: Haan, kaun baat kar rahe hai?
+
+Executive: Ji sir main IndiaMART se Amit baat kar raha hoon, sir aapne miscall matlab aapne call kara tha 1 November ko, usi ke regarding main baat kar raha hoon aap se.
+
+Customer: Haan haan, wo aaphi ka number tha kya?
+
+Executive: Nahi nahi, wo actually meri mam ka tha, to ye mam abhi mere signal main leke hai, unka number tha, to wo abhi...
+
+Customer: Haan, wo subah morning ek madam ka mere paas detail aaya tha hamaari company ki website pe.
+
+Executive: Ye, ye number, kya number last ka, unka number kya hai unka last ka?
+
+Customer: Ah, mam, ek minute, rukiye, rukiye sir, line per rahiye, bataata hoon aapko.
+
+Customer: Ah, 050 hoga sir.
+
+Executive: 050?
+
+Customer: Haan ji.
+
+Customer: Haan, sir, kuch issue ho to aap mujhe bata dijiye, main dekh leta hoon.
+
+Executive: Nahi nahi, unka number kya hai madam ka?
+
+Customer: Madam ka number chahiye sir aapko?
+
+Executive: Haan, wohi puch raha hoon madam ka last ka number kya hai, last ke four digit kya hai unke?
+
+Customer: 050 sir.
+
+Executive: 050?
+
+Customer: Haan ji.
+
+Executive: Nahi nahi, kya naam hai unka madam ka aapki?
+
+Customer: Madam ka jo hai, unka naam hai Reeeshu Yadav.
+
+Executive: Achha Reeeshu?
+
+Customer: Reeeshu, Reeeshu. Reeeshu.
+
+Executive: Haan, meri baat ho chuki madam se aapki.
+
+Customer: Ah, sir actually ye tha na aapke call padi huyi thi iske regarding main aapse baat.
+
+Executive: Nahi nahi, ho gaya, ho gaya, ho gayi meri baat. Sorted ho gaya aapka mera problem. Meri Reeeshu se ho gayi meri baat yahaan pe. To unhone meri problem ko meri sorted karwa liya hai, phir mainne manager CC ki ID se mail bhi karwa di thi, unko sirf confirmation chahiye thi. To us ID se maine unko mail karwa ke.
+
+Customer: Nahi, wo sara kuch sorted ho chuka hai Amit. Amit wo sara aur already sorted ho chuka hai. Maine unko thank you bhi bol diya maine.
+
+Executive: Okay, okay sir. Kyunki actually aisa tha na ki yahaan ticket open ho jaata hai na turant aapki miscall.
+
+Customer: Are, nahi nahi nahi ho gaya ho gaya, ho gaya sorted ho gaya, wo to main do din pehle hi sort ho gaya tha. Thik hai, okay, thank you.
+
+Executive: Okay sir, thank you sir. Okay bye.
+<<TRANSCRIPT_END>>

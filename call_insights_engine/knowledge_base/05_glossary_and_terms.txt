@@ -1,0 +1,272 @@
+# IndiaMART Glossary and Business Terms
+
+## Core Business Concepts
+
+### BuyLead (BL)
+- Definition: A buyer inquiry distributed to relevant sellers on IndiaMART
+- Purpose: Connect sellers with potential buyers looking for their products
+- Types: Daily BuyLeads, Weekly BuyLeads, Domestic, Foreign/Export
+- Key Metric: BuyLeads are the primary value proposition for paid sellers
+
+### Seller
+- Definition: IndiaMART's paying customer who subscribes to packages
+- Also called: Client, Customer, Supplier
+- Goal: Get business leads and convert them to sales
+
+### Buyer
+- Definition: Person/business posting requirements on IndiaMART
+- They search for products and post buy requirements
+- Sellers consume BuyLeads to connect with buyers
+
+### Maturity
+- Definition: Actual business/deals/ROI generated from leads
+- Indicates successful conversion of leads to sales
+- Key metric for seller satisfaction
+
+### Enquiry
+- Definition: Direct inquiry from buyer to seller
+- Different from BuyLead: Buyer directly contacts specific seller
+- Can come through: Portal, calls, emails
+
+## Product Packages
+
+### MDC (Mini Dynamic Catalogue)
+- Entry-level package
+- 7 (monthly) or 10 (yearly) weekly BLs + 1 daily bonus
+- Basic catalog listing and PNS
+
+### TrustSEAL
+- Trust-focused package
+- 20 weekly BLs + 2 daily bonus
+- TrustSEAL badge for credibility
+
+### Maximiser
+- Enhanced package
+- 30 weekly BLs + 2 daily bonus
+- Personal domain, corporate emails
+
+### Star
+- Multi-category package
+- 30 base + 7 per category weekly BLs
+- 2 base + 1 per category daily BLs
+
+### Leader
+- Premium package
+- 40 base + 14 per category weekly BLs
+- 2 base + 1 per category daily BLs
+
+## Services and Features
+
+### PNS (Preferred Number Service)
+- Virtual phone number displayed on seller's catalog
+- Forwards buyer calls to seller's mapped numbers
+- Features: Office/Non-office hours, multiple number mapping, spam blocking (#1)
+
+### LMS (Lead Management System)
+- Tool to manage and track all leads
+- Features: Search contacts, send replies, create quotations, reminders, labels
+- Path: Seller Panel >> Lead Manager
+
+### CLM (Customer Lifecycle Management)
+- System for tracking customer interactions
+- Used by executives to record call notes and follow-ups
+
+### CQS (Catalog Quality Score)
+- Score indicating quality of product listings
+- Target: 80% or above
+- Factors: Images, descriptions, prices, specifications
+- Higher CQS = Better visibility and more leads
+
+## BuyLead Related Terms
+
+### BLNI (BuyLead Not Interested)
+- Marking a lead as irrelevant/not interested
+- Helps system improve future lead recommendations
+- Path: Mark as "Not Relevant" on BL page
+
+### Sold Out Lead
+- Lead already consumed by maximum permissible sellers
+- Indicates high competition in category
+- Solution: Be more active, enable notifications
+
+### Daily Bonus BuyLeads
+- Extra leads allocated daily
+- Expire at 11:59 PM same day
+- Cannot be carried forward
+
+### Weekly BuyLeads
+- Main BL allocation
+- Allocated Sunday 12:00 AM
+- Expire Saturday 11:59 PM
+
+### High Sold MCAT
+- Categories where leads get consumed very quickly
+- Some categories have leads sold in 2 minutes
+- Requires high activity from sellers
+
+## Category and Mapping Terms
+
+### MCAT
+- Product category on IndiaMART
+- Proper mapping ensures relevant lead flow
+
+### A-Rank Category
+- High-performing category with good lead flow
+- Priority category for the seller
+
+### D-Rank Category
+- Low-performing category
+- May need review or removal
+
+### PMCAT (Primary Mapped Category)
+- Main category where product is listed
+- Critical for lead relevance
+
+### Negative (-VE) Category
+- Categories marked to be avoided
+- Helps exclude unwanted leads
+
+### Category Mapping
+- Associating products with correct categories
+- Wrong mapping = irrelevant leads
+- Path: Products >> Category Report
+
+## Location Terms
+
+### DLP (Domestic Location Preference)
+- Geographic areas seller prefers for leads
+- Can be: Hyperlocal, Local, City, State, National
+
+### Preferred Location
+- Areas where seller wants to receive leads
+- Can expand to increase lead flow
+
+### Non-Preferred Location
+- Areas seller does NOT want leads from
+- Helps filter out unwanted geographic areas
+
+## Quality and Performance Terms
+
+### ISQ (Important Selling Qualifiers)
+- Key product attributes that help match leads
+- Includes: Quantity, Order Value, Lead Type
+- Filling ISQs improves lead relevance
+
+### MOQ (Minimum Order Quantity)
+- Minimum quantity seller accepts for orders
+- Important for filtering retail vs bulk leads
+
+### Lead Type
+- Classification: Retail, Bulk, Business, GST
+- Sellers can filter based on preference
+
+### Order Value
+- Expected value of the order/requirement
+- Can filter leads based on minimum order value
+
+## Escalation Levels
+
+### L1 (Level 1)
+- First level support
+- Customer Care Executive
+- Handles initial queries and basic troubleshooting
+
+### L2 (Level 2)
+- Second level support
+- Senior Executive
+- Handles complex issues, retention calls
+
+### L3 (Level 3)
+- Third level support
+- Manager level
+- Final escalation before deactivation approval
+
+### FSF (Field Sales Force)
+- On-ground sales team
+- Can arrange meetings with sellers
+
+### BM (Business Manager)
+- Higher management
+- Involved in retention and deactivation approval
+
+### ZM (Zonal Manager)
+- Zonal authority
+- Final approval for deactivations and refunds
+
+## Ticket and Issue Terms
+
+### Deactivation
+- Request to cancel/stop services
+- Goes through retention process
+- TAT: Up to 7 days with retention attempts
+
+### Refund
+- Return of payment after deactivation
+- TAT: 7-10 working days after JV creation
+- Requires ZM approval
+
+### IVE
+- International/Export related services
+- Separate deactivation process
+
+### JV (Journal Voucher)
+- Financial document for refund processing
+- Created after service download
+
+### RCA (Root Cause Analysis)
+- Analysis of why issue/deactivation occurred
+- Required for deactivation approval
+
+### Mis-commitment
+- False promise or incorrect information given by executive
+- Valid reason for refund/deactivation
+
+## Activity Metrics
+
+### DAU (Daily Active Usage)
+- Daily activity level of seller
+- Indicates engagement with platform
+
+### BL Active Days
+- Days seller actively consumed BuyLeads
+- Higher = better engagement
+
+### LMS Active Days
+- Days seller was active on Lead Management System
+- Indicates follow-up activity
+
+### Response Rate
+- Percentage of calls/enquiries responded to
+- Higher response rate = better visibility
+
+## Technical Terms
+
+### Seller Panel
+- Web dashboard for sellers
+- Access at: seller.indiamart.com
+
+### GLID (Global ID)
+- Unique identifier for each seller account
+
+### GEM Portal
+- Government e-Marketplace
+- For government tenders
+
+### TrueCaller
+- Call identification app
+- Can block IndiaMART calls (issue)
+- Solution: Unblock or remove
+
+## Common Hindi Terms Used
+
+### Talking Pointers (Hindi)
+- "Haan" = Yes
+- "Ji" = Yes (respectful)
+- "Achha" = Okay/I see
+- "Theek hai" = Alright
+- "Sir/Mam" = Respectful address
+
+### Common Phrases
+- "Aapko kam buyleads mil rahe hain?" = Are you getting less buyouts?
+- "Leads relevant hain?" = Are leads relevant?
+- "Maturity nahi mil rahi?" = Not getting business/ROI?

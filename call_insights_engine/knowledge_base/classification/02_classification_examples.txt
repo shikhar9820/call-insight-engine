@@ -1,0 +1,145 @@
+# Classification Examples - Training Data
+
+Real examples showing correct classification of customer statements.
+
+## BUYLEAD EXAMPLES
+
+### Example 1: buylead_availability
+Customer: "Sir, I have not received any leads this week. My dashboard shows zero new leads."
+CLASSIFICATION:
+- Category: buylead_availability
+- Severity: medium
+- Reason: Customer reporting NO/LOW lead count
+
+### Example 2: buylead_relevance
+Customer: "I am getting leads but they are all wrong. I sell industrial pumps but leads are for water pumps domestic use."
+CLASSIFICATION:
+- Category: buylead_relevance
+- Severity: high
+- Reason: Customer receiving WRONG TYPE of leads
+
+### Example 3: buylead_roi
+Customer: "I have contacted 100 leads in last month but not a single order. All buyers say they already purchased from someone else."
+CLASSIFICATION:
+- Category: buylead_roi
+- Severity: high
+- Reason: Leads received but NOT CONVERTING to business
+
+### Example 4: buylead_accessibility
+Customer: "I can see the lead notification but when I open it, the phone number shows as 98XXXXXX45. How do I see full number?"
+CLASSIFICATION:
+- Category: buylead_accessibility
+- Severity: medium
+- Reason: Cannot ACCESS/VIEW buyer contact details
+
+## DEACTIVATION EXAMPLES
+
+### Example 5: Deactivation with BuyLead Issue
+Customer: "Your service is useless. I paid 30,000 but not getting any relevant leads. I want to deactivate and get refund."
+CLASSIFICATION:
+- Category 1: buylead_relevance (severity: high)
+- Category 2: deactivation (severity: critical)
+- Category 3: payment (severity: high) - refund requested
+- deactivation_intent: true
+- Reason: Multiple issues - relevance complaint, deactivation request, refund demand
+
+### Example 6: Deactivation Only
+Customer: "Please cancel my membership. I don't want to continue."
+CLASSIFICATION:
+- Category: deactivation
+- Severity: critical
+- deactivation_intent: true
+- Reason: Direct deactivation request without specific complaint
+
+## PNS (Call) EXAMPLES
+
+### Example 7: PNS Spam
+Customer: "I am getting too many spam calls through your number. People are just asking price and hanging up."
+CLASSIFICATION:
+- Category: pns
+- Severity: medium
+- Reason: Complaint about call quality through PNS
+
+### Example 8: PNS Technical
+Customer: "Calls are not coming to my number. I have not received any PNS call since 3 days."
+CLASSIFICATION:
+- Category: pns
+- Severity: high
+- Reason: PNS service not working
+
+## PAYMENT EXAMPLES
+
+### Example 9: Payment Dispute
+Customer: "I paid yesterday but my plan is still showing expired. Amount has been deducted twice from my account."
+CLASSIFICATION:
+- Category: payment
+- Severity: critical
+- Reason: Double charge, payment not reflecting
+
+### Example 10: Refund Request
+Customer: "I want full refund. Your executive promised 100 leads per month but I got only 10."
+CLASSIFICATION:
+- Category 1: payment (severity: high) - refund
+- Category 2: employee (severity: high) - mis-commitment
+- Reason: Refund due to executive's false promise
+
+## EMPLOYEE EXAMPLES
+
+### Example 11: Rude Behavior
+Customer: "Your executive was very rude to me on call yesterday. He shouted at me when I asked questions."
+CLASSIFICATION:
+- Category: employee
+- Severity: high
+- Reason: Behavior complaint
+
+### Example 12: No Response
+Customer: "My account manager has not responded to my messages for 2 weeks. I have sent 10 messages."
+CLASSIFICATION:
+- Category: employee
+- Severity: medium
+- Reason: AM not responding
+
+## TECHNICAL EXAMPLES
+
+### Example 13: App Issue
+Customer: "App is not opening. It shows error every time I try to login."
+CLASSIFICATION:
+- Category: technical
+- Severity: medium
+- Reason: App functionality issue
+
+### Example 14: Website Problem
+Customer: "Website is very slow. It takes 5 minutes to load one page."
+CLASSIFICATION:
+- Category: technical
+- Severity: low
+- Reason: Performance issue
+
+## CATALOG EXAMPLES
+
+### Example 15: Product Visibility
+Customer: "My products are not showing in search. When I search my product name, competitors come but not my listing."
+CLASSIFICATION:
+- Category: catalog
+- Severity: high
+- Reason: Search visibility issue
+
+## COMPLEX MULTI-ISSUE EXAMPLES
+
+### Example 16: Multiple Issues
+Customer: "Listen, I have many problems. First, I'm not getting leads. Second, when I do get leads they are wrong category. Third, my app is not working properly. And finally, I want to close my account because of all this."
+CLASSIFICATION:
+- Category 1: buylead_availability (severity: medium)
+- Category 2: buylead_relevance (severity: high)
+- Category 3: technical (severity: medium)
+- Category 4: deactivation (severity: critical)
+- deactivation_intent: true
+- Reason: Multiple distinct issues must be captured separately
+
+### Example 17: Root Cause Analysis
+Customer: "I am not getting business from IndiaMART."
+FOLLOW-UP NEEDED - This could be:
+- buylead_availability (if no leads)
+- buylead_relevance (if wrong leads)
+- buylead_roi (if leads not converting)
+CHECK TRANSCRIPT for more context to determine correct category.

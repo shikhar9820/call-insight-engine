@@ -1,0 +1,84 @@
+```json
+{
+    "issues": [
+        {
+            "category": "buylead_quality",
+            "subcategory": "irrelevant_leads",
+            "description": "Customer is receiving irrelevant buyleads that do not match his requirements (e.g., wrong size/quantity).",
+            "severity": "medium",
+            "mentioned_by": "customer",
+            "timestamp_location": "start"
+        },
+        {
+            "category": "subscription",
+            "subcategory": "upgrade_query",
+            "description": "Customer inquired about upgrading to a plan with TrustSeal benefits to increase buyer trust and improve lead quality.",
+            "severity": "low",
+            "mentioned_by": "customer",
+            "timestamp_location": "middle"
+        },
+        {
+            "category": "buylead_quality",
+            "subcategory": "low_volume",
+            "description": "Customer expresses concern that consuming only a small portion of available buyleads (3-6 out of 72) limits business opportunities.",
+            "severity": "medium",
+            "mentioned_by": "customer",
+            "timestamp_location": "middle"
+        },
+         {
+            "category": "buylead_quality",
+            "subcategory": "poor_quality",
+            "description": "Customer is questioning the legitimacy and relevance of some leads, citing old ratings and discrepancies in buyer information.",
+            "severity": "medium",
+            "mentioned_by": "customer",
+            "timestamp_location": "middle"
+        }
+    ],
+    "resolution": {
+        "status": "partial",
+        "actions_taken": [
+            "Executive offered a Google Meet session to explain how to mark sold-out leads as 'Interested' to improve future lead matching.",
+            "Executive shared a Google Meet link via email."
+        ],
+        "promises_made": [],
+        "follow_up_required": false,
+        "follow_up_owner": "none",
+        "follow_up_timeline": null
+    },
+    "risk_signals": {
+        "churn_risk_score": 0.4,
+        "deactivation_intent": false,
+        "deactivation_confirmed": false,
+        "refund_requested": false,
+        "escalation_threatened": false,
+        "legal_threat": false,
+        "competitor_mentioned": null,
+        "payment_dispute": false
+    },
+    "sentiment": {
+        "customer_start": "confused",
+        "customer_end": "neutral",
+        "sentiment_trajectory": "neutral",
+        "executive_tone": "professional"
+    },
+    "topics": [
+        "buyleads",
+        "subscription",
+        "upgrade",
+        "google meet",
+        "trustseal"
+    ],
+    "key_quotes": {
+        "main_complaint": "Yaar wo humare hisaab se nahi aa rahi wo cheeze na maine aapko kuch search karke diya tha.",
+        "customer_ask": "Mujhe ek bar bata do wo google meet session pe kaise karna hai wo dekhna hai?",
+        "resolution_offered": "Theek hai main aapko sir ek google meet jo hai link share kar de raha hu.",
+        "notable_statement": "Sir isme dekho ek do cheeze hain jaise maine aapko ye bataya tha ki buyleads ka jitni zyada aap buyleads consume karenge na utni hi zyada aapke paas calls and inquiries ka flow badhega."
+    },
+    "call_outcome": {
+        "primary_purpose": "complaint",
+        "was_purpose_fulfilled": false,
+        "customer_satisfied": "unclear",
+        "requires_escalation": false
+    }
+}
+```

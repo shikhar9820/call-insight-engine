@@ -1,0 +1,212 @@
+```json
+<<TRANSCRIPT_START>>
+Executive: hello
+Customer: hello ji main sujit mandal bol raha hun.
+Executive: hello.
+Customer: Indiamart hello ji main sujit mandal bol raha hun ma'am.
+Executive: haan ji sir.
+Customer: ma'am thoda sa mujhe queries tha apne app pe hun app pe mujhe kaise quotation ye karna hai uske liye mujhe thoda janna tha.
+Executive: sujit sir anju baat kar rahi hun aapke account manager.
+Customer: ji ma'am aapka number ma'am jise number se aap baat kar rahe the us number se to aap se mai call kar raha tha pehle lag nahi raha tha ma'am.
+Executive: sir mujhe vaise to mera number chalu hi hai aur by chance ho sakta hai ki aapne call kiya ho aur us time mera call kya pata koi dusri call pe ho us vajah se ye ye aapka number hai ma'am isi number ko save karo aap.
+Customer: nahi nahi nahi nahi nahi sir ye number nahi hai mera. thik hai mai aapko apna number se ek baar whatsapp pe hello message drop kar deti hun. aap mera number save kiijiye sir koi bhi query hoti hai aap mujhe direct call kiijiye na.
+Customer: thik hai ma'am main aapke ko main kar raha tha jis number se aap karte the pehle us number se nahi ho raha tha ma'am lag nahi raha tha isliye.
+Executive: pata nahi sir mere paas koi call aayi nahi vaise kah rahe aapke aur dusra matlab by chance kabhi aisa raha kare to ek baar whatsapp se connect kar liya karo kyonki whatsapp pe to hamesha active rehte hain aap.
+Customer: aap number aap number bol dijiye na ma'am ek baar.
+Executive: main number mai aapko whatsapp hi kar deti hun abhi hello message drop kar deti hun then aap save kar lena thik hai ab bataye quotation kaise banana hai ye janna hai.
+Customer: ji ji ji ji.
+Executive: aap mobile par ho abhi ya desktop par ho.
+Customer: mobile se mobile se ma'am.
+Executive: thik hai ek baar buylead vaale page par aao.
+Customer: thik hai.
+Customer: thik hai ma'am buylead pe hun ma'am.
+Executive: thik hai right hand side pe upar ki taraf dekhiye three dots vaala option aa raha hai.
+Customer: nahi nahi lead manager pe jana hai na ma'am.
+Executive: nahi nahi nahi.
+Executive: acha haan ek baar lead manager mein jaaiye haan.
+Customer: PDF quotation
+Executive: lead manager mein.
+Executive: hello.
+Customer: ji ma'am lead manager mein.
+Executive: thik hai yaha pe dekhiye.
+Executive: ki kisi bhi ek enquiry ko open kiijiye.
+Customer: ek minute.
+Executive: main example ke liye bata rahi hun fir aap jis bhi enquiry pe quotation banana chahte hain usi enquiry ko khol ke bana sakte hain abhi ek example ke liye koi bhi enquiry kholiye jab open kar lenge to fir right hand side pe upar ki three dots ke sign dikhai denge aapko.
+Customer: nahi ma'am buylead bhi to nahi aa raha hai abhi to ma'am manage quotation buylead to dikh nahi raha hai ma'am. wo option.
+Executive: lead manager lead manager.
+Executive: lead manager main nahi dikh raha hai aapko vo option.
+Customer: lead manager mein hun ma'am lead manager mein ja ke fir vaha par.
+Executive: main ek kaam kar leti hun hum video meeting pe connect kar lete hain mai aapko easily guide kar paungi aap bhi samajh payenge kaha pe option hai.
+Customer: thik thik thik ho gaya ma'am ho gaya samajh gaya ma'am abhi ye jo pdf quotation jo aaya.
+Executive: haan exactly right.
+Executive: PDF quotation ko open karenge vaha pe step by step jo jo cheeze puchi ja rahi hai product ka naam daliye uska price daliye hai na image vagaira apne aap hi capture kar lega vo and then fir next karenge to fir baki ki cheeze jo jo puchi ja rahi hai vo sab fill karte chaliye then last mein aa jayega pdf quotation banane ka option bas vo bana ke fir buyer ko send kar dijiye.
+Customer: nahi nahi ise jaise abhi to title dalna hai na ma'am title mein dala maine ispe next karna hai fir.
+Customer: haan.
+Customer: title dal ke discount percent dena hai ma'am ismein.
+Executive: ab vo aapki choice hai sir agar aap discount dena chahte hain lagana cha rahe hain product pe price pe to lagaiye nahi lagana hai to nahi.
+Customer: ye ye ma'am isme to jaise pehla hai.
+Customer: ise back karne dijiye isme pehla jo hai isme abhi maine iska jo quotation cummins sheet ka mai quotation de raha isko mai select kiya hun.
+Executive: thik hai.
+Customer: aur uske baad next kar raha hun uske baad fir discount de raha fir applicable taxes hai city charges hai delivery period hai five days.
+Customer: aur additional details ismein kya dalna hai ma'am.
+Executive: wo additional detail mein.
+Customer: ismein jo hai ismein price kaha aa raha hai ma'am price to dikh hi nahi raha kaha par dalna uska.
+Executive: price automatic pakad lega na sir vo kyunki aapne product mein dekho aapke catalog mein jo product to add hai vo automatic hi capture hua hai to vahi se price capture ho jayega.
+Customer: thik hai thik hai agar mai discount nahi dena chahta to usko usko blank chhod doon mai.
+Executive: haan haan bilkul blank chhod sakte hain. thik hai.
+Customer: applicable taxes.
+Executive: bataiye bataiye aap pura bana liijiye mai call pe hi hun agar dikkat aayegi to at least help kar paungi aapki.
+Customer: thik hai ma'am thik hai.
+Executive: haan bus line pe banee rahein.
+Customer: ek paath mai likh aa raha hoga right side niche iske just niche right side niche isme additional detail mein kya dalna padta ma'am
+Executive: vo jaise ki aapki koi terms and condition hai to aap add kar sakte ho suppose 50% advance bata payar ko to vo aap additional detail mein dal sakte ho.
+Customer: ab P.N.S number kya hota hai ma'am isme?
+Executive: hello haan ji sir haan ji sir P.N.S number ek.
+Executive: P.N.S number kya
+Customer: P.N.S number dikh raha hai vo kya cheez ke liye hai?
+Executive: vo aapka PNS number hota hai maine aapko bataya nahi tha jo buyer aapko call karta hai aapke catalog pe number dikhai deta hai na indiaMART virtual number provide karta hai aapko to PNS number vahi hota hai.
+Customer: ok ye virtual number IndiaMART ke taraf se hai na ma'am ji sir ji haan.
+Executive: buyer se call karta hai to aapke jo bhi number usme map hai jo number map kar rakhe hain aapne to us number se agar agar koi agar buyer is number se call kare to mere ko mere paas aayega sir ma'am.
+Executive: bilkul aayega bilkul aayega.
+Executive: is number ka aapko buyer call karega jitne number aapke map hai un sab pe ring ek saath bajegi.
+Executive: to ho fir aapko screen pe dikhai dega lekin screen pe aapko buyer ka real number nahi dikhega wo bhi ek virtual number hi dikhega. vo number maine aapko add bhi karvaya tha IndiaMART buyer ke naam se vo save tha na aapke paas.
+Customer: ji ji ji ji. haan usi number se call aati hai.
+Customer: thik hai thik.
+Executive: ho gaya sir bani quotation thik hai thik hai pdf generate ho gaya abhi ma'am usko preview mein check kar raha hun kaise quotation bana.
+Executive: thik hai thik hai ma'am banaya thoda thoda thik hai. haan ye clarity hai na isme aapko koi confusion to nahi aap bana payenge na.
+Customer: nahi nahi bilkul bilkul nahi bana paunga.
+Executive: thik hai by chance agar koi dikkat lage to fir direct mujhe connect kar sakte hain aap aur ek cheez aur bataye sir jo direct matlab buyleads vagaira abhi kaisi aa rahi hai kya scenario chal raha hai?
+Customer: buyleads ka ma'am abhi ma'am do teen din se thoda sa mai jyada busy ho gaya tha mai le nahi paya tha to abhi mai consume kar raha hun aaj do teen consume kiya hun mai aaj.
+Executive: thik hai aap consume karte chaliye do teen din se nahi aap consume kar pa rahe that's ok but usse pehle jitni bhi leads aapne consume kari hai unke feedback kaise rahe ke kya responses mil rahe hain.
+Customer: ma'am abhi tak abhi dikkatt ye araha hai vo price se matlab vo bheet nahi ho pa raha price to ye ek bhi nahi ho pa raha hai.
+Executive: lekin requirement to match ho rahi hai na. haan requirement match ho rahi hai requirement match ho rahi hai requirement to vo match ho rahi hai lekin price pe abhi bhi thoda sa vo log zyada ispe kar rahe. price to karta hi hai.
+Executive: aur ye aapki call rahegi hamesha ki price aap kis tarike se buyer ko offer kar rahe hain hai na to koi nahi ye to follow up cases ho gaye sir jitne zyada follow up aur aap karenge price mein kaise convince karenge vo aap hi ki call rahegi hai na thik hai ye vaale cases bhi aage ja ke convert honge sir aur koshish kiijiye jaldi se jaldi convert ho to aapko bhi maturity milna shuru ho jaaye right.
+Customer: thik hai.
+Executive: haan aur direct enquiry and calls vagaira sab ok chal rahi hai sir unme koi problem to nahi aa rahi hai?
+Customer: nahi nahi abhi koi nahi.
+Executive: IndianMART call karenge aap.
+Executive: haan definitely sir definitely baki jo bhi calls vagaira aati rahe unhe receive karte rahiyega thodi calls aapki miss bhi hui hai sir beech mein ye november ki hi baat hai sir to maine aapko pehle bhi iske bare mein jankari di thi chaar call aapke paas total aayi hai november mein usme se teen call aapki miss hui hai ek hi receive ho paayi hai to please isko thoda sa control kiijiye saari calls ko receive kiijiye thik hai?
+Customer: thik hai.
+Executive: aur review ratings bhi lete rahiyega sir jo bhi customer ke saath deal kar rahe hain quotation aap bana ke bhej rahe hain hope so ye convert agar ho jata hai to review ratings bhi lena zaruri hai abhi unki zero hai.
+Customer: lenge kaise denge ma'am uska link kaise bhejenge review kaise?
+Executive: jaise jise isi inquiry pe aake jaha se aapne three dot pe click kar ke PDF wala option nikala hai na vahi pe ek ask for review ka bhi option aa raha hoga. to isi person ko usi inquiry ko ask for review pe click kar ke bhej doge to ek link chala jayega buyer ke paas vo use open kar ke aapko review rating de sakta hai aap use call kar ke bol bhi dena sir maine ek link share kiya hai review rating ke liye to please aap ek share kar dena ratings vagaira.
+Customer: thik hai.
+Executive: thik hai. haan to ye bhi leni hai aapse thik hai sir thik hai chaliye ek ek ek cheez aur thi sujit sir abhi aapne na ye customer care number pe 9696 number jo hamara hai us pe call kiya hai to ye aapka side se concern khul gaya hai concern open ho gaya hai.
+Executive: filhaal main isko close kar deti hun aur aapke paas ek mail par mere behaviour and resolution ke liye feedback mail aayega to usko aap vaha pe satisfied ya yes ka option hoga aap uspe click kar diijiye ga thik hai sir?
+Customer: thik thik thik hai ok.
+Executive: thik hai sir ok thank you.
+Customer: thank you.
+<<TRANSCRIPT_END>>
+<<TRANSLATE_START>>
+Executive: hello
+Customer: hello, this is Sujit Mandal speaking.
+Executive: hello.
+Customer: IndiaMART, hello, this is Sujit Mandal speaking, ma'am.
+Executive: yes sir.
+Customer: Ma'am, I had a little query. I'm on the app, how do I create a quotation on the app? I wanted to know that.
+Executive: Sujit Sir, this is Anju speaking, your account manager.
+Customer: Yes, ma'am. The number you are talking from, I was calling from that number earlier but it wasn't connecting, ma'am.
+Executive: Sir, actually my number is active. By chance, maybe when you called, I was on another call, that's why. Is this your number ma'am? Should I save this number?
+Customer: No, no, no, no, sir, this is not my number. Okay, I'll drop a "hello" message on WhatsApp from my number once. Please save my number sir. If you have any queries, call me directly, right?
+Customer: Okay, ma'am. I was calling the number you used to call from earlier, but it wasn't working, ma'am. It wasn't connecting.
+Executive: I don't know sir, I didn't receive any call from you. But if such a thing happens by chance, please connect on WhatsApp. Because we are always active on WhatsApp.
+Customer: Can you tell me the number once ma'am?
+Executive: I'll WhatsApp the number to you, I'll drop a "hello" message now, then you save it okay? Now tell me, you want to know how to create a quotation.
+Customer: Yes, yes, yes, yes.
+Executive: Are you on mobile right now or on desktop?
+Customer: From mobile, from mobile ma'am.
+Executive: Okay, come to the buylead page once.
+Customer: Okay.
+Customer: Okay ma'am, I'm on the buylead page, ma'am.
+Executive: Okay, on the right-hand side, look at the top, is the three dots option coming?
+Customer: No, no, lead manager is where we have to go, right, ma'am?
+Executive: No no, no.
+Executive: Ah, yes, go to lead manager once, yes.
+Customer: PDF quotation
+Executive: In lead manager.
+Executive: Hello.
+Customer: Yes, ma'am, in lead manager.
+Executive: Okay, see here.
+Executive: Open any one enquiry.
+Customer: One minute.
+Executive: I'm just telling you for example, then you can open the enquiry on which you want to create the quotation and create it. For example, open any enquiry. When you open it, then on the right-hand side on top, the sign of three dots will appear to you.
+Customer: No ma'am buylead is not coming. Right now I'm, manage quotation buylead is not visible ma'am. That option.
+Executive: Lead manager, lead manager.
+Executive: Lead manager, that option is not visible to you.
+Customer: I'm in lead manager, ma'am. Going to lead manager, then there.
+Executive: I'll do one thing. Let's connect on a video meeting, I'll be able to guide you easily. You'll also understand where the option is.
+Customer: Ok ok it's done ma'am it's done, understood ma'am. Right now this PDF quotation that has come.
+Executive: Yes, exactly right.
+Executive: You will open the PDF quotation, there step by step whatever things are being asked, put the product name, put its price, right? The image etc will be captured automatically and then you will do next, then the rest of the things that are being asked, keep filling all of them. Then in the last the option to create a PDF quotation will come. Just create that and send it to the buyer.
+Customer: no no in this like right now the title you have to enter, ma'am, I entered the title there, you have to next it then.
+Customer: haan
+Customer: entering the title do i give a discount percentage ma'am in this
+Executive: that's your choice sir, if you want to give a discount and apply it on the product price, then apply it, if you don't want to apply it then don't.
+Customer: ma'am this this ma'am there is like the first this is is the first of this
+Customer: right now I am giving the quotation for the cumin sheet so I have selected it
+Executive: ok
+Customer: and after that I am doing next after that I am giving the discount after that applicable taxes are there. shipping charges are there. delivery period is there five days
+Customer: what should i add to additinal details ma'am
+Customer: in additional details is there is there is the price of this is not showing ma'am, where should I add it?
+Executive: price will be taken automatically sir because you have added product to see in your catalog product is already added it has automatically captured price will be captured from there
+Customer: ok fine if I don't want to give discount can I leave it blank ma'am.
+Executive: haan haan absolutely you can leave it blank
+Customer: ok applicable taxes
+Executive: tell me, tell me, make it completely and i will be online i will help you if you are stucked.
+Customer: okay okay ma'am I will be on call.
+Customer: it is writtem as 'ek part' on the right downside just downside, what is this
+
+Executive: what details should be added in additional details ma'am
+Executive: so if you have a condition that you want to add like "50% in advance" like that you can add in additional details.
+Customer: what is pns number maam
+
+Executive: hello, haan ji sir haan ji sir P.N.S number one
+Executive: PNS number
+Customer: PNS number is being seen so what is that for?
+Executive: that is PNS number I told you right when a buyer calls you and you are able to see a number on the catalog you are provided with a indiaMART virtual number, PNS is same.
+Customer: Okay, so this virtual number is from IndiaMART right? Yes ma'am yes.
+Executive: When buyers call you, so whatever number you have mapped in it, the numbers you have mapped, so that number if someone if a buyer calls from this number, so will I get the call sir ma'am?
+Executive: Definitely, definitely.
+Executive: the buyer will call on which ever number you have mapped all the number's ring will simultaneously ring.
+Executive: so that will show on your screen but the real number of the buyer will not show it will just show a virtual number. so i have made you saved that number as IndiaMart's buyer number right?
+Customer: ji ji ji ji yes yes it comes from this number only
+Customer: okay
+
+Executive: is the quotation done now?
+Customer: okay I am checking in preview of how to make the quotation
+
+Executive: okay I am making
+
+Executive: ok so you are clear and have no confusion and can create it right?
+Customer: no no no absolutely i can create
+Executive: if you have confusion you can contact me directly and tell me if buyleads are going how what is going
+
+Customer: buyleads are being going on I was busy for 3 days so I was not able to consume but now I am consuming two three
+Executive: okay
+Executive: okay if you are consuming and for 2 -3 days you were not but for the earlier one, how were the responses
+Customer: like i am being stuck at a price and can not meet it out there, but not getting a response
+Executive: requirement is being matched.
+Customer: yes requirement is being matched there are being matched. but the price is something that they are being facing trouble
+Executive: the buyer is always going to haggle that is your call to make the buyer convince for the price
+Executive: try to convince so that you will get mature leads
+Customer: okay
+Executive: calls are coming properly? is there anything you want to say?
+Customer: no there is nothing
+Executive: I am getting the calls
+
+Executive: definitely if there are calls be getting connected
+Executive: there are many calls that you have been missing if I talk about the month of November then it's fine the report that i have that you have not been getting calls
+Executive: so i would like you to have received them
+Customer: okay.
+Executive: review rating is a must if you are talking to them or making the quotation. hope it converts
+Customer: how should I send the links to review rating to them?
+Executive: so in the section where you got the threedots to convert it into PDF there is an ask for review option from where you can send it the customer
+Customer: ok
+Executive: that is it and everything is fine right?
+Customer: okay. There is a customer care number if you get that then my concern will be opened that's why I want to let you know
+Executive: So you will get an email regarding this call whether you are satisfied or not just press ok.
+Customer: Okay.
+Executive: Okay, Thanks a lot for reaching out IndiaMart.
+Customer: thank you
+<<TRANSLATE_END>>
+```

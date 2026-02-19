@@ -1,0 +1,178 @@
+# Issue Category Definitions - Classification Guide
+
+This document provides clear definitions for each issue category to ensure accurate classification of customer service calls.
+
+## BUYLEAD CATEGORIES
+
+### buylead_accessibility
+**Definition**: Issues where the customer cannot ACCESS or VIEW BuyLead details.
+**Keywords**: cannot see, not visible, masked details, verification required, login issue, OTP issue
+**Examples**:
+- Customer cannot view buyer contact details (shows as 7XXXXXXX2)
+- Primary/secondary number not verified
+- Customer unable to login to seller panel
+- OTP not received for verification
+
+### buylead_availability
+**Definition**: Issues related to LOW NUMBER or NO BuyLeads being available in customer's category.
+**Keywords**: no leads, few leads, less leads, not getting leads, lead count low
+**Examples**:
+- "I am not getting any leads"
+- "Only 2-3 leads per week"
+- "No leads in my category"
+- Low demand in product category
+
+### buylead_relevance
+**Definition**: Issues where BuyLeads received are NOT RELEVANT to customer's products/services.
+**Keywords**: irrelevant, wrong category, not matching, different products, mapping issue
+**Examples**:
+- "I sell furniture but getting leads for electronics"
+- "Buyers are from different industry"
+- "Lead requirements don't match my products"
+- Category mapping incorrect
+
+### buylead_roi
+**Definition**: Issues related to CONVERSION/RETURN from BuyLeads - leads not converting to business.
+**Keywords**: no conversion, no response, waste money, not getting business, no orders, buyers not buying
+**Examples**:
+- "I contacted 50 leads but no orders"
+- "Buyers are not responding"
+- "I'm paying but not getting any business"
+- "Leads are fake/not genuine"
+- Buyer denied requirement
+
+## SERVICE CATEGORIES
+
+### payment
+**Definition**: Issues related to PAYMENT transactions, billing, refunds, EMI.
+**Keywords**: payment failed, double charged, refund, EMI, invoice, receipt, transaction
+**Examples**:
+- Double payment charged
+- Refund not received
+- EMI not working
+- Invoice required
+- Payment dispute
+
+### subscription
+**Definition**: Issues related to SUBSCRIPTION/MEMBERSHIP plans - upgrade, downgrade, renewal.
+**Keywords**: plan, package, upgrade, downgrade, renewal, expiry, membership, benefits
+**Examples**:
+- Want to upgrade plan
+- Plan benefits not clear
+- Renewal pricing issue
+- Package comparison query
+- Auto-renewal setting
+
+### pns (Preferred Number Service)
+**Definition**: Issues related to INCOMING CALLS from buyers via IndiaMART's PNS system.
+**Keywords**: PNS, calls, missed call, spam calls, call timing, number mapping, TrueCaller
+**Examples**:
+- Not receiving PNS calls
+- Getting spam/irrelevant calls
+- Calls at odd hours
+- Missed call alerts not working
+- Want to add/remove number from PNS
+
+### catalog
+**Definition**: Issues related to PRODUCT CATALOG - visibility, listing, images, descriptions.
+**Keywords**: catalog, product, listing, image, description, visibility, search ranking, CQS
+**Examples**:
+- Products not visible in search
+- Image upload issues
+- Product description editing
+- Catalog quality score low
+- Product mapping issues
+
+### enquiry
+**Definition**: Issues related to DIRECT ENQUIRIES (not BuyLeads) from buyers.
+**Keywords**: enquiry, direct message, buyer query, quotation, LMS
+**Examples**:
+- Not receiving enquiries
+- How to respond to enquiry
+- Enquiry notification issues
+- LMS (Lead Management System) issues
+
+### technical
+**Definition**: Technical issues with WEBSITE/APP functionality.
+**Keywords**: app, website, error, bug, loading, crash, update, browser, cache
+**Examples**:
+- App not working
+- Website loading slow
+- Error message appearing
+- Need to reinstall app
+- Browser compatibility issue
+
+### employee
+**Definition**: Complaints about IndiaMART EMPLOYEES - account managers, support staff.
+**Keywords**: executive, manager, rude, misbehavior, not responding, mis-commitment, follow-up
+**Examples**:
+- Account manager not responding
+- Employee made wrong promise
+- Want to change account manager
+- Excessive sales calls
+- Rude behavior from staff
+
+### deactivation
+**Definition**: Customer wants to DEACTIVATE/CANCEL their IndiaMART subscription.
+**Keywords**: deactivate, cancel, close, stop, terminate, refund, leave IndiaMART
+**Examples**:
+- "I want to deactivate my account"
+- "Cancel my subscription"
+- "I don't want to continue"
+- Business closed
+- Not satisfied with service
+**SEVERITY**: Usually HIGH or CRITICAL - requires retention effort
+
+### other
+**Definition**: Issues that don't fit into any above category.
+**Keywords**: general query, information, feedback, suggestion
+**Examples**:
+- General information query
+- Feedback about service
+- Suggestions for improvement
+- Queries not related to above categories
+
+## SEVERITY CLASSIFICATION
+
+### critical
+- Deactivation confirmed or imminent
+- Legal threat mentioned
+- Refund demanded with aggression
+- Multiple unresolved issues over extended period
+
+### high
+- Deactivation intent expressed
+- Escalation threatened
+- Payment dispute active
+- Significant financial impact mentioned
+
+### medium
+- Issue causing business impact
+- Customer frustrated but willing to wait
+- Requires follow-up action
+
+### low
+- Information query
+- Minor issue easily resolved
+- First-time mention of concern
+
+## CLASSIFICATION PRIORITY
+
+When multiple categories apply, prioritize:
+1. **deactivation** - Always flag if customer mentions leaving
+2. **payment** - Financial issues need immediate attention
+3. **buylead_roi** - Business impact concerns
+4. **buylead_relevance** - Quality of service issue
+5. **technical** - If blocking normal operations
+6. **Other categories** - Based on customer emphasis
+
+## IMPORTANT NOTES
+
+1. A single call can have MULTIPLE issues across different categories
+2. Look for ROOT CAUSE, not just surface complaint
+3. Customer saying "not getting business" could be:
+   - buylead_availability (no leads)
+   - buylead_relevance (wrong leads)
+   - buylead_roi (leads not converting)
+4. Always check for DEACTIVATION INTENT even if not the main topic
+5. Note WHO mentioned the issue - customer complaint vs executive offering solution

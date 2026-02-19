@@ -1,0 +1,205 @@
+# BuyLead SOP - Standard Operating Procedure
+# 80% of customer issues are related to buylead consumption
+
+## Overview
+The purpose of this SOP is to cover all the issues that a seller (customer/client for IndiaMART) might face while consuming buyleads. The SOP lays down steps of what a customer servicing executive should ideally discuss and do to resolve the seller's issues.
+
+## Issue 1: BuyLead Page Accessibility
+Client not able to access Buylead Page/Screen
+
+### Executive Action
+- Ask the seller to log in to the Seller Panel (desktop) or IndiaMART mobile app
+- Guide the seller to the BuyLeads screen
+
+### Resolution Flow
+IF BuyLeads screen/page is not accessible or shows "page not loading / error":
+- Diagnosis: Technical error
+- Action:
+  - Ask the seller to log out and log in again
+  - Try an alternate browser (Chrome/Firefox)
+  - On mobile, reinstall or update the app
+  - If still persists: Assure customer of getting it checked with technical support
+ELSE BuyLead page is accessible:
+- Communicate the same to the client
+
+## Issue 2: BuyLead Availability
+Client does not see any leads on Seller Panel
+Scenario: "No BuyLeads visible" - Seller can open BuyLeads page but sees blue band message: "You have viewed all relevant BuyLeads. Explore other leads you may like."
+
+### Resolution Flow
+IF Total BuyLeads approved in seller's categories are less than 10:
+- Inform seller: "Currently, there are very few BuyLeads available in your listed categories"
+- Explain that current demand in those categories is low
+- Ask if seller deals in more products or items
+
+  IF Seller says Yes (more items):
+  - Go to Products section > Recommended Products
+  - For each product in "Recommended Products":
+    - Ask if seller deals in that product
+    - Add those products to seller's catalog
+    - Ensure minimum CQS (Catalog Quality Score) of 80%
+    - Ensure: Product photo(s) uploaded, Description filled, Price added, ISQs filled
+  - Cross-check catalog that changes are reflected
+  - Ask seller to check BuyLeads next day
+
+  ELSE IF Seller says No (no more categories):
+  - Discuss each existing category one by one
+  - Understand what products seller actually deals in
+  - Cross-check if category mapping is correct
+  - If incorrect: remap product to correct category
+  - Find additional related categories based on product similarity
+
+ELSE IF Total BuyLeads approved are decent numbers (>10-20):
+  IF Category is High Sold MCAT:
+  - Inform client BLs get consumed quickly in this category
+  - Suggest consuming BLs faster (some categories get bought in 2 minutes)
+
+  ELSE:
+  - Check filters applied by client
+  - If filters have narrowed search, suggest expanding: location, order value, category/product, lead type
+  - Check previously consumed buyleads
+  - If high consumption previously, ask about changes to catalog or filters
+
+### Additional Parallel Check
+- Verify calls and enquiries inflow
+- Sellers might not get BuyLeads but may be getting business through calls or enquiries
+- Discuss seller's response rate on calls and enquiries
+- Educate: Quick response increases visibility
+
+## Issue 3: BuyLead Relevance
+Seller has available BuyLeads but says the BLs are not relevant
+
+### Step 3.1: Check whether BLs are relevant
+- Discuss each visible BuyLead with seller
+- Ask: "Is this product something you actually deal in?"
+
+IF product is relevant:
+- Check past consumption
+- Educate seller to consume more BLs quickly
+- Ensure filters applied are correct
+- Ask customer to mark relevant Buyleads as 'Interested'
+
+IF product is not relevant:
+- Ask customer to mark those BLs as BL NI ('Not Interested') - improves system matchmaking
+- Ask customer to search for relevant BLs and mark them as 'Interested'
+- Proceed to steps 3.2, 3.3, 3.4
+
+### Step 3.2: Check Product/Category Mapping (MOST IMPORTANT)
+IF Product is mapped under wrong category:
+- Ask seller or offer to remap product to correct category
+- Save changes and confirm reflected in catalog
+
+IF Product falls under category for which BL consumed but not part of profile:
+- Advise seller to either add that category under profile OR add under "Not Preferred Category"
+
+IF Seller does not deal in that product at all:
+- Remove or inactivate that product from seller's catalog
+
+IF Very few BuyLeads visible across all categories:
+- Recommend expanding product portfolio
+- Go to Seller Panel > Products > Recommended Products
+- For each suggestion: Ask if seller deals in it, if yes add it
+- Cross-check updates appear in catalog
+- Ask seller to revisit BuyLeads next day
+
+### Step 3.3: Check Location Mapping
+IF Location mismatches found between Preferred Location vs BuyLead posted location:
+- Correct or update Preferred Locations list
+- Explain expanding geography increases lead flow
+
+IF Seller agrees to expand location coverage:
+- Expand from: Hyperlocal > Local > City > State > Other Cities > Countries
+- Save updated preferences
+
+IF Seller restricts some areas:
+- Add those to "Not Preferred Locations"
+
+IF Seller refuses expansion:
+- Respect preference but educate that limited geography = limited BuyLeads
+
+### Step 3.4: Check ISQs, Order Value, and Quantity Filters
+For complaints about "retail," "low MOQ," or "non-bulk" BuyLeads:
+
+IF Seller does not accept low-quantity/retail leads:
+- Guide to mark such leads as "Irrelevant BuyLeads"
+- Show how to use filters: Order Value filter, Lead Type filter (Business/Bulk/GST)
+
+IF Seller wants only bulk leads:
+- Demonstrate filtering: Apply "Order Value" and "Lead Type = Bulk"
+- View filtered results
+- Show where previous Bulk BuyLeads originated
+
+Check Pricing Relevance:
+- Go to Seller Panel > Incorrect Price tab
+- Review system suggestions
+- If price too high or low: Advise correction to align with market standards
+
+IF After all checks no relevant BuyLeads remain:
+- Re-evaluate product range + location to widen match scope
+
+## Issue 4: Poor ROI/Maturity
+Seller complaints:
+- Getting leads but not getting maturity/ROI
+- Getting leads but buyer does not pick up call
+- Getting leads but buyer picks call and denies requirement
+- Getting leads but buyer discusses requirement then does not reply
+- Getting leads but buyer discusses requirement but does not close deal
+
+### Resolution Flow
+IF Product/Category of consumed BL is not relevant:
+- Refer to Steps 3.2 onwards
+
+IF Product/Category of consumed BL is relevant:
+- Check if buyer is not connecting or not agreeing to requirement
+
+IF Unable to connect with Buyer:
+- Verify if seller actually clicked "Contact Buyer Now"
+- Ask about result of buyer contact attempt
+
+IF Buyer connects but does not close deal:
+- Educate: Not all BLs are converted
+- Ask to consume more BLs at quick pace
+
+IF Poor ROI despite deals with Buyer:
+- Educate: BLs are both retail and bulk
+- Focus on Average Order Value
+- Consume more bulk BLs
+
+### Additional Resolution Steps
+IF Buyer's phone unreachable/calls unanswered:
+- Ask seller to retry during different time slots (noon/evening)
+- Suggest alternate reach-outs via WhatsApp or email
+
+IF Buyer wanted different product/category mismatch:
+- Correct mapping or raise buylead correction ticket
+
+IF Price mismatch between seller quote and buyer expectation:
+- Verify if seller pricing is realistic
+- Ask seller to update price to competitive level
+
+## Optional Steps
+
+### Optional Step 1: Check Past Leads and Seller Activity
+- Check type of leads received previously
+- Check if leads were marked "Sold Out"
+- If seller claims none received: Mention past leads that were sold out before consumption
+- Educate seller:
+  - Be active and consume BuyLeads within 0-4 hours of posting
+  - Enable all Notification Settings (email, SMS, push)
+
+### Optional Step 2: Seller Education
+Important points to explain:
+- BuyLeads are AI-distributed based on category and catalog quality
+- Package tier does NOT influence BuyLead quality or volume
+- Higher packages only improve product listing visibility, not lead count
+
+Emphasize importance of:
+- Active engagement (checking BuyLeads daily)
+- Responding to enquiries and calls
+- Updating product catalog frequently
+- Marking irrelevant leads regularly
+- Using negative marking in BuyLead preferences to exclude unwanted regions/categories
+
+### Optional Step 3: Follow-Up and Closure
+- Ask seller to recheck BuyLeads next day
+- Assure customer of follow-up

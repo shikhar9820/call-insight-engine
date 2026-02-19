@@ -1,0 +1,117 @@
+# Category Mapping Rules - Classification Guide
+
+Use this guide to accurately classify customer issues into the correct category.
+
+## RULE 1: EXACT KEYWORD MATCHING
+
+### buylead_accessibility
+TRIGGER KEYWORDS: "cannot see", "not visible", "masked", "7XXXXXXX", "verification", "OTP", "login issue", "cannot access", "details hidden"
+CONTEXT: Customer has leads but CANNOT VIEW buyer contact information
+EXAMPLE PHRASES:
+- "I can see the lead but phone number is hidden"
+- "It shows 7XXXXXXX2 instead of full number"
+- "I need to verify my number to see details"
+- "OTP is not coming"
+- "Cannot login to seller panel"
+
+### buylead_availability
+TRIGGER KEYWORDS: "no leads", "not getting leads", "zero leads", "few leads", "lead count", "less leads", "no buyers", "where are leads"
+CONTEXT: Customer is NOT RECEIVING enough BuyLeads in their category
+EXAMPLE PHRASES:
+- "I am not getting any leads"
+- "Only 2-3 leads this week"
+- "Lead count has reduced"
+- "No buyers are coming"
+- "My category has no demand"
+
+### buylead_relevance
+TRIGGER KEYWORDS: "irrelevant", "wrong category", "wrong product", "not matching", "different industry", "mapping", "I sell X but getting Y"
+CONTEXT: Customer IS RECEIVING leads but they are NOT RELEVANT to their business
+EXAMPLE PHRASES:
+- "I sell furniture but getting leads for electronics"
+- "Leads are for different products"
+- "Buyers want something I don't sell"
+- "Category mapping is wrong"
+- "These leads are not for my business"
+
+### buylead_roi
+TRIGGER KEYWORDS: "no conversion", "no business", "not buying", "waste money", "no orders", "leads fake", "buyers not responding", "no maturity"
+CONTEXT: Customer is receiving relevant leads but NOT GETTING BUSINESS/ORDERS from them
+EXAMPLE PHRASES:
+- "I contacted 50 buyers but no orders"
+- "Buyers are not responding to my calls"
+- "Leads are fake, buyers deny requirement"
+- "I'm paying but not getting any business"
+- "No maturity from IndiaMART"
+- "ROI is zero"
+
+## RULE 2: DISTINGUISH SIMILAR CATEGORIES
+
+### "Not getting leads" vs "Leads are irrelevant"
+- NOT GETTING LEADS (count is low) → buylead_availability
+- GETTING LEADS but WRONG TYPE → buylead_relevance
+
+### "Not getting business" - Check the root cause:
+- No leads at all → buylead_availability
+- Wrong/irrelevant leads → buylead_relevance
+- Leads received but not converting → buylead_roi
+- Cannot see buyer details → buylead_accessibility
+
+### Payment vs Subscription
+- Transaction issue (refund, double charge, failed) → payment
+- Plan/package issue (upgrade, renewal, benefits) → subscription
+
+## RULE 3: DEACTIVATION DETECTION (ALWAYS FLAG)
+
+ALWAYS check for deactivation intent regardless of main issue:
+- "I want to deactivate"
+- "Cancel my subscription"
+- "Stop the service"
+- "I want refund"
+- "Close my account"
+- "Not continuing"
+- "Mujhe band karna hai" (Hindi)
+- "Service rok do"
+
+If deactivation mentioned → Add "deactivation" category + set deactivation_intent=true
+
+## RULE 4: SEVERITY ASSIGNMENT
+
+CRITICAL (Immediate action):
+- Deactivation CONFIRMED (customer has decided)
+- Legal threat ("I will complain to consumer court")
+- Refund with aggression
+- Multiple issues unresolved for long time
+
+HIGH (Urgent attention):
+- Deactivation INTENT (considering leaving)
+- Escalation threat ("I want to talk to manager")
+- Payment dispute
+- Significant financial mention ("I paid 50,000")
+
+MEDIUM (Follow-up needed):
+- Service quality complaint
+- Feature request
+- Moderate frustration
+
+LOW (Information):
+- General query
+- How-to questions
+- First-time minor issue
+
+## RULE 5: MULTIPLE CATEGORIES
+
+A single call can have MULTIPLE issues. Extract ALL:
+- Customer complains about irrelevant leads (buylead_relevance)
+- Also mentions wanting to deactivate (deactivation)
+- Also asks about refund (payment)
+
+→ All three should be captured as separate issues
+
+## RULE 6: WHO MENTIONED IT
+
+Track whether issue was mentioned by:
+- "customer" - Customer raised the complaint
+- "executive" - Executive proactively asked/offered
+
+This affects priority and action required.

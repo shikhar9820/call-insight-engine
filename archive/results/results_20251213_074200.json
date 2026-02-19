@@ -1,0 +1,952 @@
+[
+  {
+    "ucid": "bc68688c-99c6-45be-a4ed-f7762f50f8d8",
+    "transcript_length": 16009,
+    "translation_length": 6870,
+    "issues_count": 4,
+    "churn_risk": 0.4,
+    "sentiment": "confused -> neutral",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "a95c93c4-fb29-4754-ba6d-2142c0e202f4",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "e93e58cd-67a3-4395-a173-49fe6b2105c0",
+    "transcript_length": 12020,
+    "translation_length": 7316,
+    "issues_count": 4,
+    "churn_risk": 0.4,
+    "sentiment": "confused -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "0c450bc0-20d5-4f13-9724-ca4f72ed54f7",
+    "transcript_length": 13099,
+    "translation_length": 6824,
+    "issues_count": 3,
+    "churn_risk": 0.3,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "56c05aae-419c-4bca-9394-d1c66645dad0",
+    "transcript_length": 13118,
+    "translation_length": 8406,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "09c55aa5-2f3b-4683-98c1-582e9215e4bd",
+    "transcript_length": 13761,
+    "translation_length": 7156,
+    "issues_count": 4,
+    "churn_risk": 0.3,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "5bd28cb0-cc27-4972-a643-bb131b3a01ed",
+    "transcript_length": 16203,
+    "translation_length": 6389,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "424df8f1-8757-40b4-b83d-e3e8258fd813",
+    "transcript_length": 13798,
+    "translation_length": 6970,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "788ef05e-00da-4c9d-8a38-96e20c626b78",
+    "transcript_length": 13856,
+    "translation_length": 7546,
+    "issues_count": 5,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "df02860c-0ab6-46f1-90a0-148dec0ea0ba",
+    "transcript_length": 12151,
+    "translation_length": 6630,
+    "issues_count": 3,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "b236b06d-c9b3-4e45-b462-57292a01eafd",
+    "transcript_length": 12232,
+    "translation_length": 7791,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "1488602a-3a3a-40ef-9437-01eb2218456a",
+    "transcript_length": 15384,
+    "translation_length": 6547,
+    "issues_count": 5,
+    "churn_risk": 0.8,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "2b8b1aa8-f54f-4810-b150-badfdaffeafe",
+    "transcript_length": 15435,
+    "translation_length": 7066,
+    "issues_count": 4,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "e0ed7b76-6c13-47aa-a9ad-e71a35316a3f",
+    "transcript_length": 13341,
+    "translation_length": 7508,
+    "issues_count": 3,
+    "churn_risk": 0.3,
+    "sentiment": "neutral -> satisfied",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "25d447e8-b45f-4d53-bb35-0214d1a85fd6",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "9aad2eed-42e2-4378-b215-2984fd77d108",
+    "transcript_length": 13628,
+    "translation_length": 6642,
+    "issues_count": 3,
+    "churn_risk": 0.4,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "fd3d24b1-5df3-4c48-8fa9-8a134f7dc40f",
+    "transcript_length": 14355,
+    "translation_length": 6381,
+    "issues_count": 6,
+    "churn_risk": 0.3,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "a96430d9-35b1-40bc-bd26-26dc42ff1d79",
+    "transcript_length": 15552,
+    "translation_length": 7177,
+    "issues_count": 6,
+    "churn_risk": 0.8,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "1fb8fbde-a840-443b-84c7-3eaf23450a30",
+    "transcript_length": 16299,
+    "translation_length": 6816,
+    "issues_count": 5,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "96cf128f-98da-4845-b5ba-dccc2fe8006f",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "0dc662d1-a7f4-4bea-b59b-7ff3e5b07d62",
+    "transcript_length": 14037,
+    "translation_length": 7171,
+    "issues_count": 6,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "d600870c-6a88-450e-9451-978a29bfb2e6",
+    "transcript_length": 13724,
+    "translation_length": 7652,
+    "issues_count": 4,
+    "churn_risk": 0.8,
+    "sentiment": "frustrated -> angry",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "04c8607b-84ab-46d7-8611-9ff109085240",
+    "transcript_length": 11658,
+    "translation_length": 7584,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "2b61334e-c9b7-42e1-a589-18bebd75ced5",
+    "transcript_length": 14132,
+    "translation_length": 7145,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "f8aa7a72-c73e-46dc-befc-4ef7980a42ff",
+    "transcript_length": 13693,
+    "translation_length": 6977,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "75c1260a-b5ae-4e54-98ef-bb3b08be55a9",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "7e2205f0-7bf8-49b7-b013-7c513fd74334",
+    "transcript_length": 12100,
+    "translation_length": 7044,
+    "issues_count": 3,
+    "churn_risk": 0.3,
+    "sentiment": "confused -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "1a4f44a5-6b02-4279-b90e-03243411fc56",
+    "transcript_length": 15198,
+    "translation_length": 7560,
+    "issues_count": 4,
+    "churn_risk": 0.8,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "cdc8aa65-20ea-45b8-8155-2bcc8bd6a18a",
+    "transcript_length": 9219,
+    "translation_length": 7229,
+    "issues_count": 5,
+    "churn_risk": 0.3,
+    "sentiment": "confused -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "d83a2a3f-bf4d-468c-a096-9eb8b87a5c48",
+    "transcript_length": 14411,
+    "translation_length": 6441,
+    "issues_count": 6,
+    "churn_risk": 0.7,
+    "sentiment": "confused -> frustrated",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "a6d8ba46-6592-4cb9-b85a-70c040426b37",
+    "transcript_length": 14180,
+    "translation_length": 7735,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "66db6108-23eb-4140-947d-cf6dbea75fea",
+    "transcript_length": 12802,
+    "translation_length": 7193,
+    "issues_count": 4,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "049395f8-ad88-4cd4-a7b2-e14734ecb21e",
+    "transcript_length": 14507,
+    "translation_length": 7073,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "8279791f-d43a-4c9d-8c07-8a2ebbb75233",
+    "transcript_length": 13296,
+    "translation_length": 7466,
+    "issues_count": 4,
+    "churn_risk": 0.8,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "65dcf7d3-6891-44a6-91c7-8c2c938e3057",
+    "transcript_length": 14464,
+    "translation_length": 7317,
+    "issues_count": 3,
+    "churn_risk": 0.3,
+    "sentiment": "frustrated -> satisfied",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "490e90ba-79bc-4008-8687-8040e357c28c",
+    "transcript_length": 8773,
+    "translation_length": 7612,
+    "issues_count": 6,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "796d7646-4a26-482d-8602-f0f850a22420",
+    "transcript_length": 11658,
+    "translation_length": 7267,
+    "issues_count": 5,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> disappointed",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "0ea2b632-0f82-4113-b260-feccd2cefc6e",
+    "transcript_length": 11176,
+    "translation_length": 7219,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> anxious",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "2094cd2d-14a4-4150-a241-f11fd7ec0302",
+    "transcript_length": 13369,
+    "translation_length": 7381,
+    "issues_count": 4,
+    "churn_risk": 0.4,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "55e77851-55d8-4b38-ba22-4bf063253a04",
+    "transcript_length": 11173,
+    "translation_length": 6744,
+    "issues_count": 5,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "6322c0ab-d321-472c-b164-1d3c60464370",
+    "transcript_length": 14656,
+    "translation_length": 7415,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "58845dda-898f-4919-ba1e-fa141c13d12d",
+    "transcript_length": 13708,
+    "translation_length": 7178,
+    "issues_count": 5,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "29a63ada-448f-4b4a-a7a5-e6dfb25a25f8",
+    "transcript_length": 13223,
+    "translation_length": 7085,
+    "issues_count": 2,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 2,
+    "success": true
+  },
+  {
+    "ucid": "d6fe121b-09f6-48e0-81cf-818b2d5fde72",
+    "transcript_length": 13949,
+    "translation_length": 7398,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "angry -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "c52c9025-d45d-4269-bf58-39023c374da2",
+    "transcript_length": 15565,
+    "translation_length": 7431,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> angry",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "13f18609-4125-448b-b94f-6de819beaf2d",
+    "transcript_length": 13596,
+    "translation_length": 7008,
+    "issues_count": 5,
+    "churn_risk": 0.8,
+    "sentiment": "frustrated -> angry",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "75373507-33a8-4be4-a0c3-730403bbd470",
+    "transcript_length": 11276,
+    "translation_length": 7025,
+    "issues_count": 3,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "4d2906a6-5727-40fc-872c-42ca94a16222",
+    "transcript_length": 13037,
+    "translation_length": 7287,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "f05cab3d-e642-473d-a3a7-6bff85a96475",
+    "transcript_length": 13622,
+    "translation_length": 7272,
+    "issues_count": 3,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> angry",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "59ce2fd4-8b9a-414d-80c1-84aff736bd07",
+    "transcript_length": 10341,
+    "translation_length": 7307,
+    "issues_count": 6,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "d50bb2cc-8304-4106-9e3d-937617ddec9b",
+    "transcript_length": 7192,
+    "translation_length": 6838,
+    "issues_count": 2,
+    "churn_risk": 0.4,
+    "sentiment": "confused -> frustrated",
+    "sop_recommendations": 2,
+    "success": true
+  },
+  {
+    "ucid": "d1b3e9ef-3a90-4b29-81bf-d0f0ec64db1c",
+    "transcript_length": 12876,
+    "translation_length": 7247,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "2e919b19-db11-4161-a33a-add91ad79c9d",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "1d1543c2-c6a3-4d79-a241-e706c6703c2c",
+    "transcript_length": 12941,
+    "translation_length": 7083,
+    "issues_count": 3,
+    "churn_risk": 0.3,
+    "sentiment": "neutral -> satisfied",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "d9ec705b-6628-41ea-8134-060dd6bb6be0",
+    "transcript_length": 15386,
+    "translation_length": 7527,
+    "issues_count": 6,
+    "churn_risk": 0.9,
+    "sentiment": "angry -> angry",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "7f8b2467-39c7-40cf-b4a8-c05522e7da5a",
+    "transcript_length": 14503,
+    "translation_length": 7398,
+    "issues_count": 2,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 2,
+    "success": true
+  },
+  {
+    "ucid": "cf726d43-5341-42fb-b88a-5b1a5eb41a76",
+    "transcript_length": 13145,
+    "translation_length": 7266,
+    "issues_count": 4,
+    "churn_risk": 0.7,
+    "sentiment": "angry -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "b8e8b11a-e795-468e-94aa-56543f099e66",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "5d14385c-8549-412a-bc79-9532041a96b6",
+    "transcript_length": 14125,
+    "translation_length": 7663,
+    "issues_count": 5,
+    "churn_risk": 0.8,
+    "sentiment": "neutral -> angry",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "3659c156-0df5-48bd-999d-80d0005f116c",
+    "transcript_length": 15043,
+    "translation_length": 6389,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "0afa93d3-8edd-4667-8202-275ff7b89e63",
+    "transcript_length": 14834,
+    "translation_length": 6625,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "a517fac3-f218-4462-a093-5050ca088157",
+    "transcript_length": 11921,
+    "translation_length": 7547,
+    "issues_count": 4,
+    "churn_risk": 0.9,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "2b935cfa-ebd8-4159-b7ef-2abb00d6e5d7",
+    "transcript_length": 12899,
+    "translation_length": 7387,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "2d9d8fda-6a72-4190-a272-b2ea0a807230",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "d3b97bac-a84a-435e-a4af-8a3792e35d1d",
+    "transcript_length": 11712,
+    "translation_length": 7884,
+    "issues_count": 5,
+    "churn_risk": 0.3,
+    "sentiment": "neutral -> satisfied",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "68fda771-2268-477c-a3ad-b97da77cba69",
+    "transcript_length": 12872,
+    "translation_length": 7774,
+    "issues_count": 4,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "57aa202a-b1ef-49be-ae2d-065a6059ab29",
+    "transcript_length": 13973,
+    "translation_length": 7177,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "ffb0d4dc-e95e-4ac5-ae01-4aa711997491",
+    "transcript_length": 13733,
+    "translation_length": 7495,
+    "issues_count": 5,
+    "churn_risk": 0.8,
+    "sentiment": "neutral -> disappointed",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "45dd9962-8b4a-4d29-9c12-85460e7b4570",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "40c7e7e8-4023-46f9-bdfb-55e82fc7a87b",
+    "transcript_length": 6750,
+    "translation_length": 6142,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> anxious",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "83d0f888-7361-48ce-b9e7-8c173e920c03",
+    "transcript_length": 12337,
+    "translation_length": 6291,
+    "issues_count": 3,
+    "churn_risk": 0.3,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "c8d9f626-a378-4986-bfc0-62dd232ad605",
+    "transcript_length": 14503,
+    "translation_length": 13687,
+    "issues_count": 3,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "3dd7f78a-e4f8-4360-a4ea-fd7f35ff6372",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "bd85f5ae-3655-4a6f-9b28-86ffbbc65e75",
+    "transcript_length": 13557,
+    "translation_length": 7418,
+    "issues_count": 5,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "5d7fa3ac-c70c-434c-88b5-473ab1d6c796",
+    "transcript_length": 11065,
+    "translation_length": 7484,
+    "issues_count": 2,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> satisfied",
+    "sop_recommendations": 2,
+    "success": true
+  },
+  {
+    "ucid": "2f3d9665-6a43-4ba6-a3fa-0eb738428e2d",
+    "transcript_length": 13213,
+    "translation_length": 6699,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "d49cc673-e5be-4210-a65a-e3375de68591",
+    "transcript_length": 13668,
+    "translation_length": 7656,
+    "issues_count": 4,
+    "churn_risk": 0.9,
+    "sentiment": "neutral -> angry",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "392cbc83-3928-43e4-ac2f-8070d66ac02c",
+    "transcript_length": 12252,
+    "translation_length": 7038,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "be80c99c-4327-4ba5-8735-dfe95c3e8562",
+    "transcript_length": 12153,
+    "translation_length": 7353,
+    "issues_count": 6,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "57caeae6-e56c-41fb-ad0b-dfa339272563",
+    "transcript_length": 11903,
+    "translation_length": 6935,
+    "issues_count": 4,
+    "churn_risk": 0.7,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "2e1515c1-c343-4db9-8d9c-96154143327f",
+    "transcript_length": 12904,
+    "translation_length": 7458,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "32cb79a7-1183-40fb-b68a-7a9e79a82ea6",
+    "transcript_length": 13623,
+    "translation_length": 8359,
+    "issues_count": 6,
+    "churn_risk": 0.9,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "1b3f9a54-a9c1-4aa1-8c4d-80c70664b7d1",
+    "transcript_length": 15218,
+    "translation_length": 6982,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "d398c9cb-fa2b-48a0-ba4d-9d63fe217824",
+    "transcript_length": 12859,
+    "translation_length": 7027,
+    "issues_count": 5,
+    "churn_risk": 0.3,
+    "sentiment": "frustrated -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "45df30e8-b955-460c-a74e-ff580cb3f340",
+    "transcript_length": 13733,
+    "translation_length": 7391,
+    "issues_count": 6,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "4412621c-51a6-4fa1-9b26-02f0aa69dcf7",
+    "transcript_length": 14345,
+    "translation_length": 6034,
+    "issues_count": 6,
+    "churn_risk": 0.8,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 6,
+    "success": true
+  },
+  {
+    "ucid": "b29311bb-35dd-40d3-9595-acdf3cbb0161",
+    "transcript_length": 14876,
+    "translation_length": 6450,
+    "issues_count": 4,
+    "churn_risk": 0.9,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "1ee695b8-a874-4ae5-9f52-4943e387aa48",
+    "transcript_length": 13411,
+    "translation_length": 7008,
+    "issues_count": 4,
+    "churn_risk": 0.3,
+    "sentiment": "confused -> satisfied",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "7ba925bc-a66e-4b49-ad55-2ba19002f867",
+    "transcript_length": 11565,
+    "translation_length": 6644,
+    "issues_count": 5,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "50ec6d4f-0512-4097-a82a-04088882313d",
+    "transcript_length": 8490,
+    "translation_length": 8888,
+    "issues_count": 3,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  },
+  {
+    "ucid": "89042cd0-f61f-4558-b536-e531e20896f8",
+    "success": false,
+    "error": "{'message': 'value too long for type character varying(50)', 'code': '22001', 'hint': None, 'details': None}"
+  },
+  {
+    "ucid": "71e086ab-7805-4d55-aff5-e579d7ccd8cf",
+    "transcript_length": 10514,
+    "translation_length": 7081,
+    "issues_count": 2,
+    "churn_risk": 0.6,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 2,
+    "success": true
+  },
+  {
+    "ucid": "4c741b83-b069-445a-8fcc-ae01ac94691a",
+    "transcript_length": 13853,
+    "translation_length": 6485,
+    "issues_count": 4,
+    "churn_risk": 0.6,
+    "sentiment": "confused -> neutral",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "27ca2890-946b-4fc5-8cef-290aeec450f2",
+    "transcript_length": 12822,
+    "translation_length": 7978,
+    "issues_count": 4,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "d8e28e26-180d-4067-8f0b-78c0494a5793",
+    "transcript_length": 7406,
+    "translation_length": 7260,
+    "issues_count": 4,
+    "churn_risk": 0.3,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 4,
+    "success": true
+  },
+  {
+    "ucid": "033cf0f2-fff0-403e-b680-5084a8d6113e",
+    "transcript_length": 12268,
+    "translation_length": 7674,
+    "issues_count": 2,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 2,
+    "success": true
+  },
+  {
+    "ucid": "68094d53-1b52-4831-910c-e1a1839733b9",
+    "transcript_length": 11702,
+    "translation_length": 6897,
+    "issues_count": 5,
+    "churn_risk": 0.8,
+    "sentiment": "frustrated -> frustrated",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "9e7110f4-b3e1-45c9-b208-998c19ff46ed",
+    "transcript_length": 14079,
+    "translation_length": 7234,
+    "issues_count": 5,
+    "churn_risk": 0.7,
+    "sentiment": "frustrated -> disappointed",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "3cea1163-4800-4f0c-bb37-7a5c7eb71d90",
+    "transcript_length": 13861,
+    "translation_length": 7245,
+    "issues_count": 5,
+    "churn_risk": 0.3,
+    "sentiment": "neutral -> neutral",
+    "sop_recommendations": 5,
+    "success": true
+  },
+  {
+    "ucid": "c974c9c1-eea4-4900-a904-1b8332a14406",
+    "transcript_length": 12152,
+    "translation_length": 7497,
+    "issues_count": 3,
+    "churn_risk": 0.4,
+    "sentiment": "neutral -> frustrated",
+    "sop_recommendations": 3,
+    "success": true
+  }
+]

@@ -1,0 +1,69 @@
+<<TRANSLATE_START>>
+Executive: Hello.
+
+Customer: Hello.
+
+Executive: Yes sir.
+
+Customer: Yes sir, are you talking from Jupiter Ecoline?
+
+Executive: Yes sir, and who is speaking?
+
+Customer: Ji sir, I am speaking from IndiaMART sir.
+
+Customer: Yes, who is speaking?
+
+Executive: Ji sir, I am Amit speaking from IndiaMART, sir you had a missed call, meaning you called on November 1st, I am calling you regarding that.
+
+Customer: Yes yes, was that your number?
+
+Executive: No no, actually it was my ma'am's, so ma'am is currently having it under my signal, it was her number, so she is currently...
+
+Customer: Yes, this morning a madam's detail came to me on our company's website.
+
+Executive: Ye, ye number, what is the last number, what is the last number of her number?
+
+Customer: Ah, ma'am, one minute, wait, wait sir, please be on the line, I'll tell you.
+
+Customer: Ah, it will be 050 sir.
+
+Executive: 050?
+
+Customer: Yes ji.
+
+Customer: Yes, sir, if there is any issue, please tell me, I will take a look.
+
+Executive: No no, what is madam's number?
+
+Customer: Do you want madam's number sir?
+
+Executive: Yes, that's what I'm asking, what is the last number of madam, what are the last four digits of her?
+
+Customer: 050 sir.
+
+Executive: 050?
+
+Customer: Yes ji.
+
+Executive: No no, what is the name of your madam?
+
+Customer: Madam's name is Reeeshu Yadav.
+
+Executive: Achha Reeeshu?
+
+Customer: Reeeshu, Reeeshu. Reeeshu.
+
+Executive: Yes, I have already spoken to your madam.
+
+Customer: Ah, sir actually it was like this, your call was there, I am talking to you regarding that.
+
+Executive: No no, it's done, it's done, my problem is sorted out. I have already spoken to Reeeshu here. So she got my problem sorted out, then I also got the mail done from the manager CC's ID, she only needed confirmation. So I got her the mail done from that ID.
+
+Customer: No, that's all sorted out Amit. Amit that is all already sorted out. I have already told her thank you.
+
+Executive: Okay, okay sir. Because actually it was like this, a ticket opens here immediately after your missed call.
+
+Customer: Are, no no no, it's done, it's done, it's sorted, that was sorted out two days ago. Okay, okay, thank you.
+
+Executive: Okay sir, thank you sir. Okay bye.
+<<TRANSLATE_END>>
