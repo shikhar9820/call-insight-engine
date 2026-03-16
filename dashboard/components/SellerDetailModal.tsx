@@ -317,6 +317,34 @@ interface EngagementPattern {
   call_outcome_by_time: Array<{ time_slot: string; success_rate: number }>
 }
 
+
+interface CumulativeSopEntry {
+  issue_category: string
+  count: number
+  last_seen: string | null
+  sop_guidance: string | null
+  source?: string | null
+  max_severity?: 'critical' | 'high' | 'medium' | 'low' | null
+  severity_counts?: {
+    critical: number
+    high: number
+    medium: number
+    low: number
+  }
+}
+
+interface CumulativeSopResponse {
+  company_id: string
+  total_calls: number
+  calls_with_rag: number
+  date_range: {
+    first_call: string | null
+    last_call: string | null
+  }
+  cumulative_sop: CumulativeSopEntry[]
+}
+
+
 interface SellerProfile {
   company_id: string
   company_name: string
@@ -790,6 +818,8 @@ export default function SellerDetailModal({ companyId, onClose }: SellerDetailMo
   const [expandedCalls, setExpandedCalls] = useState<Set<string>>(new Set())
   const [selectedStickyIssueSOP, setSelectedStickyIssueSOP] = useState<string | null>(null)
   const [activeTab, setActiveTab] = useState<TabType>('overview')
+  const [cumulativeSop, setCumulativeSop] = useState<CumulativeSopEntry[] | null>(null)
+  const [cumulativeSopLoading, setCumulativeSopLoading] = useState(false)
 
   useEffect(() => {
     fetchProfile()
@@ -802,10 +832,32 @@ export default function SellerDetailModal({ companyId, onClose }: SellerDetailMo
       if (!res.ok) throw new Error('Failed to fetch seller profile')
       const data = await res.json()
       setProfile(data)
+      fetchCumulativeSop(data.company_id)
     } catch (err) {
       setError(err instanceof Error ? err.message : 'An error occurred')
     } finally {
       setLoading(false)
+    }
+  }
+
+
+  const fetchCumulativeSop = async (companyId: string) => {
+    if (!companyId) {
+      setCumulativeSop([])
+      return
+    }
+
+    try {
+      setCumulativeSopLoading(true)
+      const res = await fetch(`/api/sop-recommendations-glid?company_id=${companyId}`)
+      if (!res.ok) throw new Error('Failed to fetch cumulative SOP')
+      const json: CumulativeSopResponse = await res.json()
+      setCumulativeSop(Array.isArray(json.cumulative_sop) ? json.cumulative_sop : [])
+    } catch (err) {
+      console.error('Error fetching cumulative SOP:', err)
+      setCumulativeSop([])
+    } finally {
+      setCumulativeSopLoading(false)
     }
   }
 
@@ -825,6 +877,11 @@ export default function SellerDetailModal({ companyId, onClose }: SellerDetailMo
       month: 'short',
       year: 'numeric'
     })
+  }
+
+  const formatSeverityLabel = (value?: string | null) => {
+    if (!value) return 'Unknown'
+    return value.charAt(0).toUpperCase() + value.slice(1)
   }
 
   const getTrendIcon = (trend: string) => {
@@ -1080,6 +1137,41 @@ export default function SellerDetailModal({ companyId, onClose }: SellerDetailMo
                         </li>
                       ))}
                     </ul>
+                  </div>
+                )}
+
+                {/* Cumulative SOP - In Overview Tab */}
+                {(cumulativeSopLoading || cumulativeSop) && (
+                  <div className="bg-indigo-50 rounded-lg p-4">
+                    <div className="flex items-center gap-2 text-indigo-700 mb-3">
+                      <BookOpen className="h-5 w-5" />
+                      <h3 className="font-semibold">Cumulative SOP (Top Issues)</h3>
+                    </div>
+                    {cumulativeSopLoading && (
+                      <p className="text-sm text-indigo-700">Loading cumulative SOP...</p>
+                    )}
+                    {!cumulativeSopLoading && cumulativeSop && cumulativeSop.length > 0 && (
+                      <ul className="space-y-3">
+                        {cumulativeSop.slice(0, 3).map((issue, idx) => (
+                          <li key={idx} className="text-sm text-indigo-900">
+                            <div className="font-medium">
+                              {CATEGORY_LABELS[issue.issue_category] || issue.issue_category} - {formatSeverityLabel(issue.max_severity)} - {issue.count} calls
+                            </div>
+                            <div className="text-xs text-indigo-800">
+                              Last seen: {issue.last_seen ? formatDate(issue.last_seen) : 'Unknown'}
+                            </div>
+                            {issue.sop_guidance && (
+                              <div className="text-xs text-indigo-800 mt-1">
+                                {issue.sop_guidance.slice(0, 240)}...
+                              </div>
+                            )}
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                    {!cumulativeSopLoading && cumulativeSop && cumulativeSop.length === 0 && (
+                      <p className="text-sm text-indigo-700">No cumulative SOP data (RAG-only).</p>
+                    )}
                   </div>
                 )}
 
